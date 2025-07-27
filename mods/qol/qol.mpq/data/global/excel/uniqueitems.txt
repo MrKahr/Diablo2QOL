@@ -520,49 +520,49 @@ Act 4 (H) Cpot B	12	80	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7			
 Act 5 (H) Cpot A	12	81	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7															0
 Act 5 (H) Cpot B	12	83	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7															0
 Act 5 (H) Cpot C	12	85	2					0	rvl	1	Hpotion 4	2	Hpotion 5	4	Hpotion 6	8				7															0
-Act 1 Champ A	13	0	-2					0	Act 1 Citem A	1	Act 1 Cpot A	2																							0
-Act 1 Champ B	13	5	-2					0	Act 1 Citem B	1	Act 1 Cpot B	1																							0
-Act 1 Champ C	13	9	-2					0	Act 1 Citem C	1	Act 1 Cpot C	1																							0
-Act 2 Champ A	13	12	-2					0	Act 2 Citem A	1	Act 2 Cpot A	1																							0
-Act 2 Champ B	13	15	-2					0	Act 2 Citem B	1	Act 2 Cpot B	1																							0
-Act 2 Champ C	13	18	-2					0	Act 2 Citem C	1	Act 2 Cpot C	1																							0
-Act 3 Champ A	13	20	-2					0	Act 3 Citem A	1	Act 3 Cpot A	1																							0
-Act 3 Champ B	13	22	-2					0	Act 3 Citem B	1	Act 3 Cpot B	1																							0
-Act 3 Champ C	13	24	-2					0	Act 3 Citem C	1	Act 3 Cpot C	1																							0
-Act 4 Champ A	13	26	-2					0	Act 4 Citem A	1	Act 4 Cpot A	1																							0
-Act 4 Champ B	13	29	-2					0	Act 4 Citem B	1	Act 4 Cpot B	1																							0
-Act 5 Champ A	13	32	-2					0	Act 5 Citem A	1	Act 5 Cpot A	1																							0
-Act 5 Champ B	13	34	-2					0	Act 5 Citem B	1	Act 5 Cpot B	1																							0
-Act 5 Champ C	13	36	-2					0	Act 5 Citem C	1	Act 5 Cpot C	1																							0
-Act 1 (N) Champ A	13	38	-2					0	Act 1 (N) Citem A	1	Act 1 (N) Cpot A	2																							0
-Act 1 (N) Champ B	13	40	-2					0	Act 1 (N) Citem B	1	Act 1 (N) Cpot B	2																							0
-Act 1 (N) Champ C	13	41	-2					0	Act 1 (N) Citem C	1	Act 1 (N) Cpot C	2																							0
-Act 2 (N) Champ A	13	42	-2					0	Act 2 (N) Citem A	1	Act 2 (N) Cpot A	2																							0
-Act 2 (N) Champ B	13	44	-2					0	Act 2 (N) Citem B	1	Act 2 (N) Cpot B	2																							0
-Act 2 (N) Champ C	13	45	-2					0	Act 2 (N) Citem C	1	Act 2 (N) Cpot C	2																							0
-Act 3 (N) Champ A	13	46	-2					0	Act 3 (N) Citem A	1	Act 3 (N) Cpot A	2																							0
-Act 3 (N) Champ B	13	48	-2					0	Act 3 (N) Citem B	1	Act 3 (N) Cpot B	2																							0
-Act 3 (N) Champ C	13	50	-2					0	Act 3 (N) Citem C	1	Act 3 (N) Cpot C	2																							0
-Act 4 (N) Champ A	13	51	-2					0	Act 4 (N) Citem A	1	Act 4 (N) Cpot A	2																							0
-Act 4 (N) Champ B	13	54	-2					0	Act 4 (N) Citem B	1	Act 4 (N) Cpot B	2																							0
-Act 4 (N) Champ C	13	56	-2					0	Act 4 (N) Citem B	1	Act 4 (N) Cpot B	2																							
-Act 5 (N) Champ A	13	57	-2					0	Act 5 (N) Citem A	1	Act 5 (N) Cpot A	2																							0
-Act 5 (N) Champ B	13	60	-2					0	Act 5 (N) Citem B	1	Act 5 (N) Cpot B	2																							0
-Act 5 (N) Champ C	13	62	-2					0	Act 5 (N) Citem C	1	Act 5 (N) Cpot C	2																							
-Act 1 (H) Champ A	13	63	-2					0	Act 1 (H) Citem A	1	Act 1 (H) Cpot A	3																							0
-Act 1 (H) Champ B	13	66	-2					0	Act 1 (H) Citem B	1	Act 1 (H) Cpot B	3																							0
-Act 1 (H) Champ C	13	68	-2					0	Act 1 (H) Citem C	1	Act 1 (H) Cpot C	3																							0
-Act 2 (H) Champ A	13	69	-2					0	Act 2 (H) Citem A	1	Act 2 (H) Cpot A	3																							0
-Act 2 (H) Champ B	13	71	-2					0	Act 2 (H) Citem B	1	Act 2 (H) Cpot B	3																							0
-Act 2 (H) Champ C	13	72	-2					0	Act 2 (H) Citem C	1	Act 2 (H) Cpot C	3																							0
-Act 3 (H) Champ A	13	74	-2					0	Act 3 (H) Citem A	1	Act 3 (H) Cpot A	3																							0
-Act 3 (H) Champ B	13	75	-2					0	Act 3 (H) Citem B	1	Act 3 (H) Cpot B	3																							0
-Act 3 (H) Champ C	13	77	-2					0	Act 3 (H) Citem C	1	Act 3 (H) Cpot C	3																							0
-Act 4 (H) Champ A	13	78	-2					0	Act 4 (H) Citem A	1	Act 4 (H) Cpot A	3																							0
-Act 4 (H) Champ B	13	80	-2					0	Act 4 (H) Citem B	1	Act 4 (H) Cpot B	3																							0
-Act 5 (H) Champ A	13	81	-2					0	Act 5 (H) Citem A	1	Act 5 (H) Cpot A	3																							0
-Act 5 (H) Champ B	13	83	-2					0	Act 5 (H) Citem B	1	Act 5 (H) Cpot B	3																							0
-Act 5 (H) Champ C	13	85	-2					0	Act 5 (H) Citem C	1	Act 5 (H) Cpot C	3																							0
+Act 1 Champ A	13	0	-4					0	Act 1 Citem A	1	Act 1 Cpot A	2																							0
+Act 1 Champ B	13	5	-4					0	Act 1 Citem B	1	Act 1 Cpot B	1																							0
+Act 1 Champ C	13	9	-4					0	Act 1 Citem C	1	Act 1 Cpot C	1																							0
+Act 2 Champ A	13	12	-4					0	Act 2 Citem A	1	Act 2 Cpot A	1																							0
+Act 2 Champ B	13	15	-4					0	Act 2 Citem B	1	Act 2 Cpot B	1																							0
+Act 2 Champ C	13	18	-4					0	Act 2 Citem C	1	Act 2 Cpot C	1																							0
+Act 3 Champ A	13	20	-4					0	Act 3 Citem A	1	Act 3 Cpot A	1																							0
+Act 3 Champ B	13	22	-4					0	Act 3 Citem B	1	Act 3 Cpot B	1																							0
+Act 3 Champ C	13	24	-4					0	Act 3 Citem C	1	Act 3 Cpot C	1																							0
+Act 4 Champ A	13	26	-4					0	Act 4 Citem A	1	Act 4 Cpot A	1																							0
+Act 4 Champ B	13	29	-4					0	Act 4 Citem B	1	Act 4 Cpot B	1																							0
+Act 5 Champ A	13	32	-4					0	Act 5 Citem A	1	Act 5 Cpot A	1																							0
+Act 5 Champ B	13	34	-4					0	Act 5 Citem B	1	Act 5 Cpot B	1																							0
+Act 5 Champ C	13	36	-4					0	Act 5 Citem C	1	Act 5 Cpot C	1																							0
+Act 1 (N) Champ A	13	38	-4					0	Act 1 (N) Citem A	1	Act 1 (N) Cpot A	2																							0
+Act 1 (N) Champ B	13	40	-4					0	Act 1 (N) Citem B	1	Act 1 (N) Cpot B	2																							0
+Act 1 (N) Champ C	13	41	-4					0	Act 1 (N) Citem C	1	Act 1 (N) Cpot C	2																							0
+Act 2 (N) Champ A	13	42	-4					0	Act 2 (N) Citem A	1	Act 2 (N) Cpot A	2																							0
+Act 2 (N) Champ B	13	44	-4					0	Act 2 (N) Citem B	1	Act 2 (N) Cpot B	2																							0
+Act 2 (N) Champ C	13	45	-4					0	Act 2 (N) Citem C	1	Act 2 (N) Cpot C	2																							0
+Act 3 (N) Champ A	13	46	-4					0	Act 3 (N) Citem A	1	Act 3 (N) Cpot A	2																							0
+Act 3 (N) Champ B	13	48	-4					0	Act 3 (N) Citem B	1	Act 3 (N) Cpot B	2																							0
+Act 3 (N) Champ C	13	50	-4					0	Act 3 (N) Citem C	1	Act 3 (N) Cpot C	2																							0
+Act 4 (N) Champ A	13	51	-4					0	Act 4 (N) Citem A	1	Act 4 (N) Cpot A	2																							0
+Act 4 (N) Champ B	13	54	-4					0	Act 4 (N) Citem B	1	Act 4 (N) Cpot B	2																							0
+Act 4 (N) Champ C	13	56	-4					0	Act 4 (N) Citem B	1	Act 4 (N) Cpot B	2																							
+Act 5 (N) Champ A	13	57	-4					0	Act 5 (N) Citem A	1	Act 5 (N) Cpot A	2																							0
+Act 5 (N) Champ B	13	60	-4					0	Act 5 (N) Citem B	1	Act 5 (N) Cpot B	2																							0
+Act 5 (N) Champ C	13	62	-4					0	Act 5 (N) Citem C	1	Act 5 (N) Cpot C	2																							
+Act 1 (H) Champ A	13	63	-4					0	Act 1 (H) Citem A	1	Act 1 (H) Cpot A	3																							0
+Act 1 (H) Champ B	13	66	-4					0	Act 1 (H) Citem B	1	Act 1 (H) Cpot B	3																							0
+Act 1 (H) Champ C	13	68	-4					0	Act 1 (H) Citem C	1	Act 1 (H) Cpot C	3																							0
+Act 2 (H) Champ A	13	69	-4					0	Act 2 (H) Citem A	1	Act 2 (H) Cpot A	3																							0
+Act 2 (H) Champ B	13	71	-4					0	Act 2 (H) Citem B	1	Act 2 (H) Cpot B	3																							0
+Act 2 (H) Champ C	13	72	-4					0	Act 2 (H) Citem C	1	Act 2 (H) Cpot C	3																							0
+Act 3 (H) Champ A	13	74	-4					0	Act 3 (H) Citem A	1	Act 3 (H) Cpot A	3																							0
+Act 3 (H) Champ B	13	75	-4					0	Act 3 (H) Citem B	1	Act 3 (H) Cpot B	3																							0
+Act 3 (H) Champ C	13	77	-4					0	Act 3 (H) Citem C	1	Act 3 (H) Cpot C	3																							0
+Act 4 (H) Champ A	13	78	-4					0	Act 4 (H) Citem A	1	Act 4 (H) Cpot A	3																							0
+Act 4 (H) Champ B	13	80	-4					0	Act 4 (H) Citem B	1	Act 4 (H) Cpot B	3																							0
+Act 5 (H) Champ A	13	81	-4					0	Act 5 (H) Citem A	1	Act 5 (H) Cpot A	3																							0
+Act 5 (H) Champ B	13	83	-4					0	Act 5 (H) Citem B	1	Act 5 (H) Cpot B	3																							0
+Act 5 (H) Champ C	13	85	-4					0	Act 5 (H) Citem C	1	Act 5 (H) Cpot C	3																							0
 Act 1 Uitem A	14	0	1	800	800	800	1024	0	Act 1 Equip A	58	Act 1 Good	4																							0
 Act 1 Uitem B	14	5	1	800	800	800	1024	0	Act 1 Equip B	58	Act 1 Good	4																							0
 Act 1 Uitem C	14	9	1	800	800	800	1024	0	Act 1 Equip C	58	Act 1 Good	4																							0
@@ -605,48 +605,48 @@ Act 4 (H) Uitem B	14	80	1	800	800	800	1024	0	Act 4 (H) Equip B	58	Act 4 (H) Good
 Act 5 (H) Uitem A	14	81	1	800	800	800	1024	0	Act 5 (H) Equip A	58	Act 5 (H) Good	4																							0
 Act 5 (H) Uitem B	14	83	1	800	800	800	1024	0	Act 5 (H) Equip B	58	Act 5 (H) Good	4																							0
 Act 5 (H) Uitem C	14	85	1	800	800	800	1024	0	Act 5 (H) Equip C	58	Act 5 (H) Good	4																							0
-Act 1 Unique A	15	0	-3					0	Act 1 Uitem A	1	Act 1 Cpot A	2																							0
-Act 1 Unique B	15	5	-3					0	Act 1 Uitem B	1	Act 1 Cpot B	2																							0
-Act 1 Unique C	15	9	-3					0	Act 1 Uitem C	1	Act 1 Cpot C	2																							0
-Act 2 Unique A	15	12	-3					0	Act 2 Uitem A	1	Act 2 Cpot A	2																							0
-Act 2 Unique B	15	15	-3					0	Act 2 Uitem B	1	Act 2 Cpot B	2																							0
-Act 2 Unique C	15	18	-3					0	Act 2 Uitem C	1	Act 2 Cpot C	2																							0
-Act 3 Unique A	15	20	-3					0	Act 3 Uitem A	1	Act 3 Cpot A	2																							0
-Act 3 Unique B	15	22	-3					0	Act 3 Uitem B	1	Act 3 Cpot B	2																							0
-Act 3 Unique C	15	24	-3					0	Act 3 Uitem C	1	Act 3 Cpot C	2																							0
-Act 4 Unique A	15	26	-3					0	Act 4 Uitem A	1	Act 4 Cpot A	2																							0
-Act 4 Unique B	15	29	-3					0	Act 4 Uitem B	1	Act 4 Cpot B	2																							0
-Act 5 Unique A	15	32	-3					0	Act 5 Uitem A	1	Act 5 Cpot A	2																							0
-Act 5 Unique B	15	34	-3					0	Act 5 Uitem B	1	Act 5 Cpot B	2																							0
-Act 5 Unique C	15	36	-3					0	Act 5 Uitem C	1	Act 5 Cpot C	2																							0
-Act 1 (N) Unique A	15	38	-3					0	Act 1 (N) Uitem A	1	Act 1 (N) Cpot A	2																							0
-Act 1 (N) Unique B	15	40	-3					0	Act 1 (N) Uitem B	1	Act 1 (N) Cpot B	2																							0
-Act 1 (N) Unique C	15	41	-3					0	Act 1 (N) Uitem C	1	Act 1 (N) Cpot C	2																							0
-Act 2 (N) Unique A	15	42	-3					0	Act 2 (N) Uitem A	1	Act 2 (N) Cpot A	2																							0
-Act 2 (N) Unique B	15	44	-3					0	Act 2 (N) Uitem B	1	Act 2 (N) Cpot B	2																							0
-Act 2 (N) Unique C	15	45	-3					0	Act 2 (N) Uitem C	1	Act 2 (N) Cpot C	2																							0
-Act 3 (N) Unique A	15	46	-3					0	Act 3 (N) Uitem A	1	Act 3 (N) Cpot A	2																							0
-Act 3 (N) Unique B	15	48	-3					0	Act 3 (N) Uitem B	1	Act 3 (N) Cpot B	2																							0
-Act 3 (N) Unique C	15	50	-3					0	Act 3 (N) Uitem C	1	Act 3 (N) Cpot C	2																							0
-Act 4 (N) Unique A	15	51	-3					0	Act 4 (N) Uitem A	1	Act 4 (N) Cpot A	2																							0
-Act 4 (N) Unique B	15	54	-3					0	Act 4 (N) Uitem B	1	Act 4 (N) Cpot B	2																							0
-Act 5 (N) Unique A	15	57	-3					0	Act 5 (N) Uitem A	1	Act 5 (N) Cpot A	2																							0
-Act 5 (N) Unique B	15	60	-3					0	Act 5 (N) Uitem B	1	Act 5 (N) Cpot B	2																							0
-Act 5 (N) Unique C	15	62	-3					0	Act 5 (N) Uitem C	1	Act 5 (N) Cpot C	2																							0
-Act 1 (H) Unique A	15	63	-3					0	Act 1 (H) Uitem A	1	Act 1 (H) Cpot A	2																							0
-Act 1 (H) Unique B	15	66	-3					0	Act 1 (H) Uitem B	1	Act 1 (H) Cpot B	2																							0
-Act 1 (H) Unique C	15	68	-3					0	Act 1 (H) Uitem C	1	Act 1 (H) Cpot C	2																							0
-Act 2 (H) Unique A	15	69	-3					0	Act 2 (H) Uitem A	1	Act 2 (H) Cpot A	2																							0
-Act 2 (H) Unique B	15	71	-3					0	Act 2 (H) Uitem B	1	Act 2 (H) Cpot B	2																							0
-Act 2 (H) Unique C	15	72	-3					0	Act 2 (H) Uitem C	1	Act 2 (H) Cpot C	2																							0
-Act 3 (H) Unique A	15	74	-3					0	Act 3 (H) Uitem A	1	Act 3 (H) Cpot A	2																							0
-Act 3 (H) Unique B	15	75	-3					0	Act 3 (H) Uitem B	1	Act 3 (H) Cpot B	2																							0
-Act 3 (H) Unique C	15	77	-3					0	Act 3 (H) Uitem C	1	Act 3 (H) Cpot C	2																							0
-Act 4 (H) Unique A	15	78	-3					0	Act 4 (H) Uitem A	1	Act 4 (H) Cpot A	2																							0
-Act 4 (H) Unique B	15	80	-3					0	Act 4 (H) Uitem B	1	Act 4 (H) Cpot B	2																							0
-Act 5 (H) Unique A	15	81	-3					0	Act 5 (H) Uitem A	1	Act 5 (H) Cpot A	2																							0
-Act 5 (H) Unique B	15	83	-3					0	Act 5 (H) Uitem B	1	Act 5 (H) Cpot B	2																							0
-Act 5 (H) Unique C	15	85	-3					0	Act 5 (H) Uitem C	1	Act 5 (H) Cpot C	2																							0
+Act 1 Unique A	15	0	-6					0	Act 1 Uitem A	1	Act 1 Cpot A	2																							0
+Act 1 Unique B	15	5	-6					0	Act 1 Uitem B	1	Act 1 Cpot B	2																							0
+Act 1 Unique C	15	9	-6					0	Act 1 Uitem C	1	Act 1 Cpot C	2																							0
+Act 2 Unique A	15	12	-6					0	Act 2 Uitem A	1	Act 2 Cpot A	2																							0
+Act 2 Unique B	15	15	-6					0	Act 2 Uitem B	1	Act 2 Cpot B	2																							0
+Act 2 Unique C	15	18	-6					0	Act 2 Uitem C	1	Act 2 Cpot C	2																							0
+Act 3 Unique A	15	20	-6					0	Act 3 Uitem A	1	Act 3 Cpot A	2																							0
+Act 3 Unique B	15	22	-6					0	Act 3 Uitem B	1	Act 3 Cpot B	2																							0
+Act 3 Unique C	15	24	-6					0	Act 3 Uitem C	1	Act 3 Cpot C	2																							0
+Act 4 Unique A	15	26	-6					0	Act 4 Uitem A	1	Act 4 Cpot A	2																							0
+Act 4 Unique B	15	29	-6					0	Act 4 Uitem B	1	Act 4 Cpot B	2																							0
+Act 5 Unique A	15	32	-6					0	Act 5 Uitem A	1	Act 5 Cpot A	2																							0
+Act 5 Unique B	15	34	-6					0	Act 5 Uitem B	1	Act 5 Cpot B	2																							0
+Act 5 Unique C	15	36	-6					0	Act 5 Uitem C	1	Act 5 Cpot C	2																							0
+Act 1 (N) Unique A	15	38	-6					0	Act 1 (N) Uitem A	1	Act 1 (N) Cpot A	2																							0
+Act 1 (N) Unique B	15	40	-6					0	Act 1 (N) Uitem B	1	Act 1 (N) Cpot B	2																							0
+Act 1 (N) Unique C	15	41	-6					0	Act 1 (N) Uitem C	1	Act 1 (N) Cpot C	2																							0
+Act 2 (N) Unique A	15	42	-6					0	Act 2 (N) Uitem A	1	Act 2 (N) Cpot A	2																							0
+Act 2 (N) Unique B	15	44	-6					0	Act 2 (N) Uitem B	1	Act 2 (N) Cpot B	2																							0
+Act 2 (N) Unique C	15	45	-6					0	Act 2 (N) Uitem C	1	Act 2 (N) Cpot C	2																							0
+Act 3 (N) Unique A	15	46	-6					0	Act 3 (N) Uitem A	1	Act 3 (N) Cpot A	2																							0
+Act 3 (N) Unique B	15	48	-6					0	Act 3 (N) Uitem B	1	Act 3 (N) Cpot B	2																							0
+Act 3 (N) Unique C	15	50	-6					0	Act 3 (N) Uitem C	1	Act 3 (N) Cpot C	2																							0
+Act 4 (N) Unique A	15	51	-6					0	Act 4 (N) Uitem A	1	Act 4 (N) Cpot A	2																							0
+Act 4 (N) Unique B	15	54	-6					0	Act 4 (N) Uitem B	1	Act 4 (N) Cpot B	2																							0
+Act 5 (N) Unique A	15	57	-6					0	Act 5 (N) Uitem A	1	Act 5 (N) Cpot A	2																							0
+Act 5 (N) Unique B	15	60	-6					0	Act 5 (N) Uitem B	1	Act 5 (N) Cpot B	2																							0
+Act 5 (N) Unique C	15	62	-6					0	Act 5 (N) Uitem C	1	Act 5 (N) Cpot C	2																							0
+Act 1 (H) Unique A	15	63	-6					0	Act 1 (H) Uitem A	1	Act 1 (H) Cpot A	2																							0
+Act 1 (H) Unique B	15	66	-6					0	Act 1 (H) Uitem B	1	Act 1 (H) Cpot B	2																							0
+Act 1 (H) Unique C	15	68	-6					0	Act 1 (H) Uitem C	1	Act 1 (H) Cpot C	2																							0
+Act 2 (H) Unique A	15	69	-6					0	Act 2 (H) Uitem A	1	Act 2 (H) Cpot A	2																							0
+Act 2 (H) Unique B	15	71	-6					0	Act 2 (H) Uitem B	1	Act 2 (H) Cpot B	2																							0
+Act 2 (H) Unique C	15	72	-6					0	Act 2 (H) Uitem C	1	Act 2 (H) Cpot C	2																							0
+Act 3 (H) Unique A	15	74	-6					0	Act 3 (H) Uitem A	1	Act 3 (H) Cpot A	2																							0
+Act 3 (H) Unique B	15	75	-6					0	Act 3 (H) Uitem B	1	Act 3 (H) Cpot B	2																							0
+Act 3 (H) Unique C	15	77	-6					0	Act 3 (H) Uitem C	1	Act 3 (H) Cpot C	2																							0
+Act 4 (H) Unique A	15	78	-6					0	Act 4 (H) Uitem A	1	Act 4 (H) Cpot A	2																							0
+Act 4 (H) Unique B	15	80	-6					0	Act 4 (H) Uitem B	1	Act 4 (H) Cpot B	2																							0
+Act 5 (H) Unique A	15	81	-6					0	Act 5 (H) Uitem A	1	Act 5 (H) Cpot A	2																							0
+Act 5 (H) Unique B	15	83	-6					0	Act 5 (H) Uitem B	1	Act 5 (H) Cpot B	2																							0
+Act 5 (H) Unique C	15	85	-6					0	Act 5 (H) Uitem C	1	Act 5 (H) Cpot C	2																							0
 Quill 1	16	0	1					125	gld	19	Act 1 Junk	19																							0
 Quill 2	16	4	1					125	gld	19	Act 1 Junk	19																							0
 Quill 3	16	8	1					125	gld	19	Act 1 Junk	19	Act 1 Good	1																					0
@@ -1079,61 +1079,61 @@ Uber Izual			1	1024				0	mbr	1																									0
 Pandemonium Key A			1	1024				0	pk1	1																									0
 Pandemonium Key B			1	1024				0	pk2	1																									0
 Pandemonium Key C			1	1024				0	pk3	1																									0
-Act 1 (H) Champ A Desecrated	36	63	-2					0	Sunder Charms	1	Act 1 (H) Champ A	1																							0
-Act 1 (H) Champ B Desecrated	36	66	-2					0	Sunder Charms	1	Act 1 (H) Champ B	1																							0
-Act 1 (H) Champ C Desecrated	36	68	-2					0	Sunder Charms	1	Act 1 (H) Champ C	1																							0
-Act 2 (H) Champ A Desecrated	36	69	-2					0	Sunder Charms	1	Act 2 (H) Champ A	1																							0
-Act 2 (H) Champ B Desecrated	36	71	-2					0	Sunder Charms	1	Act 2 (H) Champ B	1																							0
-Act 2 (H) Champ C Desecrated	36	72	-2					0	Sunder Charms	1	Act 2 (H) Champ C	1																							0
-Act 3 (H) Champ A Desecrated	36	74	-2					0	Sunder Charms	1	Act 3 (H) Champ A	1																							0
-Act 3 (H) Champ B Desecrated	36	75	-2					0	Sunder Charms	1	Act 3 (H) Champ B	1																							0
-Act 3 (H) Champ C Desecrated	36	77	-2					0	Sunder Charms	1	Act 3 (H) Champ C	1																							0
-Act 4 (H) Champ A Desecrated	36	78	-2					0	Sunder Charms	1	Act 4 (H) Champ A	1																							0
-Act 4 (H) Champ B Desecrated	36	80	-2					0	Sunder Charms	1	Act 4 (H) Champ B	1																							0
-Act 5 (H) Champ A Desecrated	36	81	-2					0	Sunder Charms	1	Act 5 (H) Champ A	1																							0
-Act 5 (H) Champ B Desecrated	36	83	-2					0	Sunder Charms	1	Act 5 (H) Champ B	1																							0
-Act 5 (H) Champ C Desecrated	36	85	-2					0	Sunder Charms	1	Act 5 (H) Champ C	1																							0
-Act 1 (H) Unique A Desecrated	37	63	-2					0	Sunder Charms	1	Act 1 (H) Unique A	1																							0
-Act 1 (H) Unique B Desecrated	37	66	-2					0	Sunder Charms	1	Act 1 (H) Unique B	1																							0
-Act 1 (H) Unique C Desecrated	37	68	-2					0	Sunder Charms	1	Act 1 (H) Unique C	1																							0
-Act 2 (H) Unique A Desecrated	37	69	-2					0	Sunder Charms	1	Act 2 (H) Unique A	1																							0
-Act 2 (H) Unique B Desecrated	37	71	-2					0	Sunder Charms	1	Act 2 (H) Unique B	1																							0
-Act 2 (H) Unique C Desecrated	37	72	-2					0	Sunder Charms	1	Act 2 (H) Unique C	1																							0
-Act 3 (H) Unique A Desecrated	37	74	-2					0	Sunder Charms	1	Act 3 (H) Unique A	1																							0
-Act 3 (H) Unique B Desecrated	37	75	-2					0	Sunder Charms	1	Act 3 (H) Unique B	1																							0
-Act 3 (H) Unique C Desecrated	37	77	-2					0	Sunder Charms	1	Act 3 (H) Unique C	1																							0
-Act 4 (H) Unique A Desecrated	37	78	-2					0	Sunder Charms	1	Act 4 (H) Unique A	1																							0
-Act 4 (H) Unique B Desecrated	37	80	-2					0	Sunder Charms	1	Act 4 (H) Unique B	1																							0
-Act 5 (H) Unique A Desecrated	37	81	-2					0	Sunder Charms	1	Act 5 (H) Unique A	1																							0
-Act 5 (H) Unique B Desecrated	37	83	-2					0	Sunder Charms	1	Act 5 (H) Unique B	1																							0
-Act 5 (H) Unique C Desecrated	37	85	-2					0	Sunder Charms	1	Act 5 (H) Unique C	1																							0
-Act 1 (H) Super A Desecrated	38	67	-2					0	Sunder Charms	1	Act 1 (H) Super A	1																							0
-Act 1 (H) Super B Desecrated	38	67	-2					0	Sunder Charms	1	Act 1 (H) Super B	1																							0
-Act 1 (H) Super C Desecrated	38	68	-2					0	Sunder Charms	1	Act 1 (H) Super C	1																							0
-Act 2 (H) Super A Desecrated	38	68	-2					0	Sunder Charms	1	Act 2 (H) Super A	1																							0
-Act 2 (H) Super B Desecrated	38	69	-2					0	Sunder Charms	1	Act 2 (H) Super B	1																							0
-Act 2 (H) Super C Desecrated	38	72	-2					0	Sunder Charms	1	Act 2 (H) Super C	1																							0
-Act 3 (H) Super A Desecrated	38	73	-2					0	Sunder Charms	1	Act 3 (H) Super A	1																							0
-Act 3 (H) Super B Desecrated	38	75	-2					0	Sunder Charms	1	Act 3 (H) Super B	1																							0
-Act 3 (H) Super C Desecrated	38	78	-2					0	Sunder Charms	1	Act 3 (H) Super C	1																							0
-Act 4 (H) Super A Desecrated	38	81	-2					0	Sunder Charms	1	Act 4 (H) Super A	1																							0
-Act 4 (H) Super B Desecrated	38	84	-2					0	Sunder Charms	1	Act 4 (H) Super B	1																							0
-Act 4 (H) Super C Desecrated	38	87	-2					0	Sunder Charms	1	Act 4 (H) Super C	1																							0
-Act 5 (H) Super A Desecrated	38	90	-2					0	Sunder Charms	1	Act 5 (H) Super A	1																							0
-Act 5 (H) Super B Desecrated	38	93	-2					0	Sunder Charms	1	Act 5 (H) Super B	1																							0
-Act 5 (H) Super C Desecrated	38	96	-2					0	Sunder Charms	1	Act 5 (H) Super C	1																							0
-Act 1 (H) Super Ax Desecrated	39	67	-2					0	Sunder Charms	1	Act 1 (H) Super Ax	1																							0
-Act 1 (H) Super Bx Desecrated	39	67	-2					0	Sunder Charms	1	Act 1 (H) Super Bx	1																							0
-Act 1 (H) Super Cx Desecrated	39	68	-2					0	Sunder Charms	1	Act 1 (H) Super Cx	1																							0
-Act 2 (H) Super Ax Desecrated	39	68	-2					0	Sunder Charms	1	Act 2 (H) Super Ax	1																							0
-Act 2 (H) Super Bx Desecrated	39	69	-2					0	Sunder Charms	1	Act 2 (H) Super Bx	1																							0
-Act 2 (H) Super Cx Desecrated	39	72	-2					0	Sunder Charms	1	Act 2 (H) Super Cx	1																							0
-Act 3 (H) Super Ax Desecrated	39	73	-2					0	Sunder Charms	1	Act 3 (H) Super Ax	1																							0
-Act 3 (H) Super Bx Desecrated	39	75	-2					0	Sunder Charms	1	Act 3 (H) Super Bx	1																							0
-Act 3 (H) Super Cx Desecrated	39	78	-2					0	Sunder Charms	1	Act 3 (H) Super Cx	1																							0
-Act 4 (H) Super Ax Desecrated	39	81	-2					0	Sunder Charms	1	Act 4 (H) Super Ax	1																							0
-Act 4 (H) Super Bx Desecrated	39	84	-2					0	Sunder Charms	1	Act 4 (H) Super Bx	1																							0
-Act 4 (H) Super Cx Desecrated	39	87	-2					0	Sunder Charms	1	Act 4 (H) Super Cx	1																							0
-Act 5 (H) Super Ax Desecrated	39	90	-2					0	Sunder Charms	1	Act 5 (H) Super Ax	1																							0
-Act 5 (H) Super Bx Desecrated	39	93	-2					0	Sunder Charms	1	Act 5 (H) Super Bx	1																							0
-Act 5 (H) Super Cx Desecrated	39	96	-2					0	Sunder Charms	1	Act 5 (H) Super Cx	1																							0
+Act 1 (H) Champ A Desecrated	36	63	-4					0	Sunder Charms	1	Act 1 (H) Champ A	1																							0
+Act 1 (H) Champ B Desecrated	36	66	-4					0	Sunder Charms	1	Act 1 (H) Champ B	1																							0
+Act 1 (H) Champ C Desecrated	36	68	-4					0	Sunder Charms	1	Act 1 (H) Champ C	1																							0
+Act 2 (H) Champ A Desecrated	36	69	-4					0	Sunder Charms	1	Act 2 (H) Champ A	1																							0
+Act 2 (H) Champ B Desecrated	36	71	-4					0	Sunder Charms	1	Act 2 (H) Champ B	1																							0
+Act 2 (H) Champ C Desecrated	36	72	-4					0	Sunder Charms	1	Act 2 (H) Champ C	1																							0
+Act 3 (H) Champ A Desecrated	36	74	-4					0	Sunder Charms	1	Act 3 (H) Champ A	1																							0
+Act 3 (H) Champ B Desecrated	36	75	-4					0	Sunder Charms	1	Act 3 (H) Champ B	1																							0
+Act 3 (H) Champ C Desecrated	36	77	-4					0	Sunder Charms	1	Act 3 (H) Champ C	1																							0
+Act 4 (H) Champ A Desecrated	36	78	-4					0	Sunder Charms	1	Act 4 (H) Champ A	1																							0
+Act 4 (H) Champ B Desecrated	36	80	-4					0	Sunder Charms	1	Act 4 (H) Champ B	1																							0
+Act 5 (H) Champ A Desecrated	36	81	-4					0	Sunder Charms	1	Act 5 (H) Champ A	1																							0
+Act 5 (H) Champ B Desecrated	36	83	-4					0	Sunder Charms	1	Act 5 (H) Champ B	1																							0
+Act 5 (H) Champ C Desecrated	36	85	-4					0	Sunder Charms	1	Act 5 (H) Champ C	1																							0
+Act 1 (H) Unique A Desecrated	37	63	-4					0	Sunder Charms	1	Act 1 (H) Unique A	1																							0
+Act 1 (H) Unique B Desecrated	37	66	-4					0	Sunder Charms	1	Act 1 (H) Unique B	1																							0
+Act 1 (H) Unique C Desecrated	37	68	-4					0	Sunder Charms	1	Act 1 (H) Unique C	1																							0
+Act 2 (H) Unique A Desecrated	37	69	-4					0	Sunder Charms	1	Act 2 (H) Unique A	1																							0
+Act 2 (H) Unique B Desecrated	37	71	-4					0	Sunder Charms	1	Act 2 (H) Unique B	1																							0
+Act 2 (H) Unique C Desecrated	37	72	-4					0	Sunder Charms	1	Act 2 (H) Unique C	1																							0
+Act 3 (H) Unique A Desecrated	37	74	-4					0	Sunder Charms	1	Act 3 (H) Unique A	1																							0
+Act 3 (H) Unique B Desecrated	37	75	-4					0	Sunder Charms	1	Act 3 (H) Unique B	1																							0
+Act 3 (H) Unique C Desecrated	37	77	-4					0	Sunder Charms	1	Act 3 (H) Unique C	1																							0
+Act 4 (H) Unique A Desecrated	37	78	-4					0	Sunder Charms	1	Act 4 (H) Unique A	1																							0
+Act 4 (H) Unique B Desecrated	37	80	-4					0	Sunder Charms	1	Act 4 (H) Unique B	1																							0
+Act 5 (H) Unique A Desecrated	37	81	-4					0	Sunder Charms	1	Act 5 (H) Unique A	1																							0
+Act 5 (H) Unique B Desecrated	37	83	-4					0	Sunder Charms	1	Act 5 (H) Unique B	1																							0
+Act 5 (H) Unique C Desecrated	37	85	-4					0	Sunder Charms	1	Act 5 (H) Unique C	1																							0
+Act 1 (H) Super A Desecrated	38	67	-4					0	Sunder Charms	1	Act 1 (H) Super A	1																							0
+Act 1 (H) Super B Desecrated	38	67	-4					0	Sunder Charms	1	Act 1 (H) Super B	1																							0
+Act 1 (H) Super C Desecrated	38	68	-4					0	Sunder Charms	1	Act 1 (H) Super C	1																							0
+Act 2 (H) Super A Desecrated	38	68	-4					0	Sunder Charms	1	Act 2 (H) Super A	1																							0
+Act 2 (H) Super B Desecrated	38	69	-4					0	Sunder Charms	1	Act 2 (H) Super B	1																							0
+Act 2 (H) Super C Desecrated	38	72	-4					0	Sunder Charms	1	Act 2 (H) Super C	1																							0
+Act 3 (H) Super A Desecrated	38	73	-4					0	Sunder Charms	1	Act 3 (H) Super A	1																							0
+Act 3 (H) Super B Desecrated	38	75	-4					0	Sunder Charms	1	Act 3 (H) Super B	1																							0
+Act 3 (H) Super C Desecrated	38	78	-4					0	Sunder Charms	1	Act 3 (H) Super C	1																							0
+Act 4 (H) Super A Desecrated	38	81	-4					0	Sunder Charms	1	Act 4 (H) Super A	1																							0
+Act 4 (H) Super B Desecrated	38	84	-4					0	Sunder Charms	1	Act 4 (H) Super B	1																							0
+Act 4 (H) Super C Desecrated	38	87	-4					0	Sunder Charms	1	Act 4 (H) Super C	1																							0
+Act 5 (H) Super A Desecrated	38	90	-4					0	Sunder Charms	1	Act 5 (H) Super A	1																							0
+Act 5 (H) Super B Desecrated	38	93	-4					0	Sunder Charms	1	Act 5 (H) Super B	1																							0
+Act 5 (H) Super C Desecrated	38	96	-4					0	Sunder Charms	1	Act 5 (H) Super C	1																							0
+Act 1 (H) Super Ax Desecrated	39	67	-4					0	Sunder Charms	1	Act 1 (H) Super Ax	1																							0
+Act 1 (H) Super Bx Desecrated	39	67	-4					0	Sunder Charms	1	Act 1 (H) Super Bx	1																							0
+Act 1 (H) Super Cx Desecrated	39	68	-4					0	Sunder Charms	1	Act 1 (H) Super Cx	1																							0
+Act 2 (H) Super Ax Desecrated	39	68	-4					0	Sunder Charms	1	Act 2 (H) Super Ax	1																							0
+Act 2 (H) Super Bx Desecrated	39	69	-4					0	Sunder Charms	1	Act 2 (H) Super Bx	1																							0
+Act 2 (H) Super Cx Desecrated	39	72	-4					0	Sunder Charms	1	Act 2 (H) Super Cx	1																							0
+Act 3 (H) Super Ax Desecrated	39	73	-4					0	Sunder Charms	1	Act 3 (H) Super Ax	1																							0
+Act 3 (H) Super Bx Desecrated	39	75	-4					0	Sunder Charms	1	Act 3 (H) Super Bx	1																							0
+Act 3 (H) Super Cx Desecrated	39	78	-4					0	Sunder Charms	1	Act 3 (H) Super Cx	1																							0
+Act 4 (H) Super Ax Desecrated	39	81	-4					0	Sunder Charms	1	Act 4 (H) Super Ax	1																							0
+Act 4 (H) Super Bx Desecrated	39	84	-4					0	Sunder Charms	1	Act 4 (H) Super Bx	1																							0
+Act 4 (H) Super Cx Desecrated	39	87	-4					0	Sunder Charms	1	Act 4 (H) Super Cx	1																							0
+Act 5 (H) Super Ax Desecrated	39	90	-4					0	Sunder Charms	1	Act 5 (H) Super Ax	1																							0
+Act 5 (H) Super Bx Desecrated	39	93	-4					0	Sunder Charms	1	Act 5 (H) Super Bx	1																							0
+Act 5 (H) Super Cx Desecrated	39	96	-4					0	Sunder Charms	1	Act 5 (H) Super Cx	1																							0
