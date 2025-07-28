@@ -669,26 +669,26 @@ Swarm 2 (N)	17	46	1					125	Potion 6	12	Misc 2	6	Act 3 (N) Good	1	Act 3 (N) Magi
 Swarm 1 (H)	17	68	1					125	Potion 6	12	Misc 2	6	Act 2 (H) Good	1	Act 2 (H) Magic A	6																			0
 Swarm 2 (H)	17	74	1					125	Potion 6	12	Misc 2	6	Act 3 (H) Good	1	Act 3 (H) Magic A	6																			0
 Sunder Charms			1					23899	Cold Rupture	30	Flame Rift	30	Crack of the Heavens	20	Rotting Fissure	12	Bone Break	6	Black Cleft	3												2	2	1	0
-Andariel			-6	983	983	983	1024	19	gld,mul=1280	1	Act 2 Equip A	2	Act 2 Junk	1	Act 2 Good	3																			0
-Andariel (N)			-6	983	983	983	1024	19	gld,mul=1536	1	Act 2 (N) Equip A	2	Act 2 (N) Junk	1	Act 2 (N) Good	3																			0
-Andariel (H)			-6	983	983	983	1024	19	gld,mul=2048	1	Act 2 (H) Equip A	2	Act 2 (H) Junk	1	Act 2 (H) Good	2	tes	1																	0
-Andarielq			-6	995	995	1024	1024	19	Act 2 Equip A	3	Act 2 Good	3																							0
-Andarielq Desecrated A	20	13	-6	995	995	1024	1024	19	Act 2 Equip A	3	Act 2 Good	3																							0
-Andarielq Desecrated B	20	32	-6	995	995	1024	1024	19	Act 4 Equip B	3	Act 4 Good	3																							0
-Andarielq Desecrated C	20	48	-6	995	995	1024	1024	19	Act 3 (N) Equip A	3	Act 3 (N) Good	3																							0
-Andarielq (N)			-6	995	995	1024	1024	19	Act 2 (N) Equip A	3	Act 2 (N) Good	3																							0
-Andarielq (N) Desecrated A	20	43	-6	995	995	1024	1024	19	Act 2 (N) Equip A	3	Act 2 (N) Good	3																							0
-Andarielq (N) Desecrated B	20	57	-6	995	995	1024	1024	19	Act 4 (N) Equip B	3	Act 4 (N) Good	3																							0
-Andarielq (N) Desecrated C	20	73	-6	995	995	1024	1024	19	Act 3 (H) Equip A	3	Act 3 (H) Good	3																							0
-Andarielq (H)			-6	995	995	1024	1024	19	Act 2 (H) Equip A	2	Act 2 (H) Good	3	tes	1																					0
-Andarielq Item (H) Desecrated A			-6	995	995	1024	1024	19	Act 3 (H) Equip B	2	Act 3 (H) Good	3	tes	1																					0
-Andarielq Item (H) Desecrated B			-6	995	995	1024	1024	19	Act 3 (H) Equip C	2	Act 3 (H) Good	3	tes	1																					0
-Andarielq Item (H) Desecrated C			-6	995	995	1024	1024	19	Act 4 (H) Equip A	2	Act 4 (H) Good	3	tes	1																					0
-Andarielq Item (H) Desecrated D			-6	995	995	1024	1024	19	Act 4 (H) Equip B	2	Act 4 (H) Good	3	tes	1																					0
-Andarielq Item (H) Desecrated E			-6	995	995	1024	1024	19	Act 4 (H) Equip C	2	Act 4 (H) Good	3	tes	1																					0
-Andarielq Item (H) Desecrated F			-6	995	995	1024	1024	19	Act 5 (H) Equip A	2	Act 5 (H) Good	3	tes	1																					0
-Andarielq Item (H) Desecrated G			-6	995	995	1024	1024	19	Act 5 (H) Equip B	2	Act 5 (H) Good	3	tes	1																					0
-Andarielq Item (H) Desecrated H			-6	995	995	1024	1024	19	Act 5 (H) Equip C	2	Act 5 (H) Good	3	tes	1																					0
+Andariel			-6	1000	1000	983	1024	19	gld,mul=1280	1	Act 2 Equip A	2	Act 2 Junk	1	Act 2 Good	3																			0
+Andariel (N)			-6	1000	1000	983	1024	19	gld,mul=1536	1	Act 2 (N) Equip A	2	Act 2 (N) Junk	1	Act 2 (N) Good	3																			0
+Andariel (H)			-6	1000	1000	983	1024	19	gld,mul=2048	1	Act 2 (H) Equip A	2	Act 2 (H) Junk	1	Act 2 (H) Good	2	tes	1																	0
+Andarielq			-6	1000	1000	1024	1024	19	Act 2 Equip A	3	Act 2 Good	3																							0
+Andarielq Desecrated A	20	13	-6	1000	1000	1024	1024	19	Act 2 Equip A	3	Act 2 Good	3																							0
+Andarielq Desecrated B	20	32	-6	1000	1000	1024	1024	19	Act 4 Equip B	3	Act 4 Good	3																							0
+Andarielq Desecrated C	20	48	-6	1000	1000	1024	1024	19	Act 3 (N) Equip A	3	Act 3 (N) Good	3																							0
+Andarielq (N)			-6	1000	1000	1024	1024	19	Act 2 (N) Equip A	3	Act 2 (N) Good	3																							0
+Andarielq (N) Desecrated A	20	43	-6	1000	1000	1024	1024	19	Act 2 (N) Equip A	3	Act 2 (N) Good	3																							0
+Andarielq (N) Desecrated B	20	57	-6	1000	1000	1024	1024	19	Act 4 (N) Equip B	3	Act 4 (N) Good	3																							0
+Andarielq (N) Desecrated C	20	73	-6	1000	1000	1024	1024	19	Act 3 (H) Equip A	3	Act 3 (H) Good	3																							0
+Andarielq (H)			-6	1000	1000	1024	1024	19	Act 2 (H) Equip A	2	Act 2 (H) Good	3	tes	1																					0
+Andarielq Item (H) Desecrated A			-6	1000	1000	1024	1024	19	Act 3 (H) Equip B	2	Act 3 (H) Good	3	tes	1																					0
+Andarielq Item (H) Desecrated B			-6	1000	1000	1024	1024	19	Act 3 (H) Equip C	2	Act 3 (H) Good	3	tes	1																					0
+Andarielq Item (H) Desecrated C			-6	1000	1000	1024	1024	19	Act 4 (H) Equip A	2	Act 4 (H) Good	3	tes	1																					0
+Andarielq Item (H) Desecrated D			-6	1000	1000	1024	1024	19	Act 4 (H) Equip B	2	Act 4 (H) Good	3	tes	1																					0
+Andarielq Item (H) Desecrated E			-6	1000	1000	1024	1024	19	Act 4 (H) Equip C	2	Act 4 (H) Good	3	tes	1																					0
+Andarielq Item (H) Desecrated F			-6	1000	1000	1024	1024	19	Act 5 (H) Equip A	2	Act 5 (H) Good	3	tes	1																					0
+Andarielq Item (H) Desecrated G			-6	1000	1000	1024	1024	19	Act 5 (H) Equip B	2	Act 5 (H) Good	3	tes	1																					0
+Andarielq Item (H) Desecrated H			-6	1000	1000	1024	1024	19	Act 5 (H) Equip C	2	Act 5 (H) Good	3	tes	1																					0
 Andarielq (H) Desecrated A	20	74	-6					0	Sunder Charms	3	Andarielq Item (H) Desecrated A	3																							0
 Andarielq (H) Desecrated B	20	78	-6					0	Sunder Charms	3	Andarielq Item (H) Desecrated B	3																							0
 Andarielq (H) Desecrated C	20	81	-6					0	Sunder Charms	3	Andarielq Item (H) Desecrated C	3																							0
@@ -697,35 +697,35 @@ Andarielq (H) Desecrated E	20	87	-6					0	Sunder Charms	3	Andarielq Item (H) Des
 Andarielq (H) Desecrated F	20	90	-6					0	Sunder Charms	3	Andarielq Item (H) Desecrated F	3																							0
 Andarielq (H) Desecrated G	20	93	-6					0	Sunder Charms	3	Andarielq Item (H) Desecrated G	3																							0
 Andarielq (H) Desecrated H	20	96	-6					0	Sunder Charms	3	Andarielq Item (H) Desecrated H	3																							0
-Duriel - Base			-6	983	983	983	1024	19	gld,mul=1280	1	Act 3 Equip A	2	Act 3 Junk	1	Act 3 Good	2																			0
-Duriel - Base Desecrated A			-6	983	983	983	1024	19	gld,mul=1280	1	Act 3 Equip B	2	Act 3 Junk	1	Act 3 Good	2																			0
-Duriel - Base Desecrated B			-6	983	983	983	1024	19	gld,mul=1280	1	Act 5 Equip B	2	Act 5 Junk	1	Act 5 Good	2																			0
-Duriel - Base Desecrated C			-6	983	983	983	1024	19	gld,mul=1280	1	Act 3 (N) Equip A	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
-Duriel (N) - Base			-6	983	983	983	1024	19	gld,mul=1536	1	Act 3 (N) Equip A	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
-Duriel (N) - Base Desecrated A			-6	983	983	983	1024	19	gld,mul=1536	1	Act 4 (N) Equip A	2	Act 4 (N) Junk	1	Act 4 (N) Good	2																			0
-Duriel (N) - Base Desecrated B			-6	983	983	983	1024	19	gld,mul=1536	1	Act 5 (N) Equip B	2	Act 5 (N) Junk	1	Act 5 (N) Good	2																			0
-Duriel (N) - Base Desecrated C			-6	983	983	983	1024	19	gld,mul=1536	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	2																			0
-Duriel (H) - Base			-6	983	983	983	1024	19	gld,mul=2048	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	2	tes	2																	0
-Duriel (H) - Base Desecrated A			-6	983	983	983	1024	19	gld,mul=2048	1	Act 4 (H) Equip B	2	Act 4 (H) Junk	1	Act 4 (H) Good	2	tes	2																	0
-Duriel (H) - Base Desecrated B			-6	983	983	983	1024	19	gld,mul=2048	1	Act 5 (H) Equip A	2	Act 5 (H) Junk	1	Act 5 (H) Good	2	tes	2																	0
-Duriel (H) - Base Desecrated C			-6	983	983	983	1024	19	gld,mul=2048	1	Act 5 (H) Equip B	2	Act 5 (H) Junk	1	Act 5 (H) Good	2	tes	2																	0
-Duriel (H) - Base Desecrated D			-6	983	983	983	1024	19	gld,mul=2048	1	Act 5 (H) Equip C	2	Act 5 (H) Junk	1	Act 5 (H) Good	2	tes	2																	0
-Durielq - Base			-6	993	993	1024	1024	19	Act 3 Equip A	3	Act 3 Good	3																							0
-Durielq (N) - Base			-6	993	993	1024	1024	19	Act 3 (N) Equip A	3	Act 3 (N) Good	3																							0
-Durielq (H) - Base			-6	993	993	1024	1024	19	Act 3 (H) Equip A	1	Act 3 (H) Good	3	tes	2																					0
-Radament			-6	900	900	900	1024	19	gld,mul=1280	1	Act 3 Equip B	2	Act 3 Junk	1	Act 3 Good	2																			0
-Radament Desecrated A	21	19	-6	900	900	900	1024	19	gld,mul=1280	1	Act 3 Equip B	2	Act 3 Junk	1	Act 3 Good	2																			0
-Radament Desecrated B	21	33	-6	900	900	900	1024	19	gld,mul=1280	1	Act 4 Equip B	2	Act 4 Junk	1	Act 4 Good	2																			0
-Radament Desecrated C	21	48	-6	900	900	900	1024	19	gld,mul=1280	1	Act 3 (N) Equip A	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
-Radament (N)			-6	900	900	900	1024	19	gld,mul=1536	1	Act 3 (N) Equip B	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
-Radament (N) Desecrated A	21	52	-6	900	900	900	1024	19	gld,mul=1536	1	Act 3 (N) Equip C	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
-Radament (N) Desecrated B	21	62	-6	900	900	900	1024	19	gld,mul=1536	1	Act 5 (N) Equip A	2	Act 5 (N) Junk	1	Act 5 (N) Good	2																			0
-Radament (N) Desecrated C	21	73	-6	900	900	900	1024	19	gld,mul=1536	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	2																			0
-Radament (H)			-6	900	900	900	1024	19	gld,mul=2048	1	Act 3 (H) Equip C	2	Act 3 (H) Junk	1	Act 3 (H) Good	2																			0
-Radament Item (H) Desecrated A			-6	900	900	900	1024	19	gld,mul=2048	1	Act 4 (H) Equip B	2	Act 4 (H) Junk	1	Act 4 (H) Good	2																			0
-Radament Item (H) Desecrated B			-6	900	900	900	1024	19	gld,mul=2048	1	Act 5 (H) Equip A	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
-Radament Item (H) Desecrated C			-6	900	900	900	1024	19	gld,mul=2048	1	Act 5 (H) Equip B	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
-Radament Item (H) Desecrated D			-6	900	900	900	1024	19	gld,mul=2048	1	Act 5 (H) Equip C	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
+Duriel - Base			-6	1000	1000	983	1024	19	gld,mul=1280	1	Act 3 Equip A	2	Act 3 Junk	1	Act 3 Good	2																			0
+Duriel - Base Desecrated A			-6	1000	1000	983	1024	19	gld,mul=1280	1	Act 3 Equip B	2	Act 3 Junk	1	Act 3 Good	2																			0
+Duriel - Base Desecrated B			-6	1000	1000	983	1024	19	gld,mul=1280	1	Act 5 Equip B	2	Act 5 Junk	1	Act 5 Good	2																			0
+Duriel - Base Desecrated C			-6	1000	1000	983	1024	19	gld,mul=1280	1	Act 3 (N) Equip A	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
+Duriel (N) - Base			-6	1000	1000	983	1024	19	gld,mul=1536	1	Act 3 (N) Equip A	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
+Duriel (N) - Base Desecrated A			-6	1000	1000	983	1024	19	gld,mul=1536	1	Act 4 (N) Equip A	2	Act 4 (N) Junk	1	Act 4 (N) Good	2																			0
+Duriel (N) - Base Desecrated B			-6	1000	1000	983	1024	19	gld,mul=1536	1	Act 5 (N) Equip B	2	Act 5 (N) Junk	1	Act 5 (N) Good	2																			0
+Duriel (N) - Base Desecrated C			-6	1000	1000	983	1024	19	gld,mul=1536	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	2																			0
+Duriel (H) - Base			-6	1000	1000	983	1024	19	gld,mul=2048	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	2	tes	2																	0
+Duriel (H) - Base Desecrated A			-6	1000	1000	983	1024	19	gld,mul=2048	1	Act 4 (H) Equip B	2	Act 4 (H) Junk	1	Act 4 (H) Good	2	tes	2																	0
+Duriel (H) - Base Desecrated B			-6	1000	1000	983	1024	19	gld,mul=2048	1	Act 5 (H) Equip A	2	Act 5 (H) Junk	1	Act 5 (H) Good	2	tes	2																	0
+Duriel (H) - Base Desecrated C			-6	1000	1000	983	1024	19	gld,mul=2048	1	Act 5 (H) Equip B	2	Act 5 (H) Junk	1	Act 5 (H) Good	2	tes	2																	0
+Duriel (H) - Base Desecrated D			-6	1000	1000	983	1024	19	gld,mul=2048	1	Act 5 (H) Equip C	2	Act 5 (H) Junk	1	Act 5 (H) Good	2	tes	2																	0
+Durielq - Base			-6	1000	1000	1024	1024	19	Act 3 Equip A	3	Act 3 Good	3																							0
+Durielq (N) - Base			-6	1000	1000	1024	1024	19	Act 3 (N) Equip A	3	Act 3 (N) Good	3																							0
+Durielq (H) - Base			-6	1000	1000	1024	1024	19	Act 3 (H) Equip A	1	Act 3 (H) Good	3	tes	2																					0
+Radament			-6	950	950	900	1024	19	gld,mul=1280	1	Act 3 Equip B	2	Act 3 Junk	1	Act 3 Good	2																			0
+Radament Desecrated A	21	19	-6	950	950	900	1024	19	gld,mul=1280	1	Act 3 Equip B	2	Act 3 Junk	1	Act 3 Good	2																			0
+Radament Desecrated B	21	33	-6	950	950	900	1024	19	gld,mul=1280	1	Act 4 Equip B	2	Act 4 Junk	1	Act 4 Good	2																			0
+Radament Desecrated C	21	48	-6	950	950	900	1024	19	gld,mul=1280	1	Act 3 (N) Equip A	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
+Radament (N)			-6	950	950	900	1024	19	gld,mul=1536	1	Act 3 (N) Equip B	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
+Radament (N) Desecrated A	21	52	-6	950	950	900	1024	19	gld,mul=1536	1	Act 3 (N) Equip C	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
+Radament (N) Desecrated B	21	62	-6	950	950	900	1024	19	gld,mul=1536	1	Act 5 (N) Equip A	2	Act 5 (N) Junk	1	Act 5 (N) Good	2																			0
+Radament (N) Desecrated C	21	73	-6	950	950	900	1024	19	gld,mul=1536	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	2																			0
+Radament (H)			-6	950	950	900	1024	19	gld,mul=2048	1	Act 3 (H) Equip C	2	Act 3 (H) Junk	1	Act 3 (H) Good	2																			0
+Radament Item (H) Desecrated A			-6	950	950	900	1024	19	gld,mul=2048	1	Act 4 (H) Equip B	2	Act 4 (H) Junk	1	Act 4 (H) Good	2																			0
+Radament Item (H) Desecrated B			-6	950	950	900	1024	19	gld,mul=2048	1	Act 5 (H) Equip A	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
+Radament Item (H) Desecrated C			-6	950	950	900	1024	19	gld,mul=2048	1	Act 5 (H) Equip B	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
+Radament Item (H) Desecrated D			-6	950	950	900	1024	19	gld,mul=2048	1	Act 5 (H) Equip C	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
 Radament (H) Desecrated A	21	86	-6					0	Sunder Charms	3	Radament Item (H) Desecrated A	3																							0
 Radament (H) Desecrated B	21	90	-6					0	Sunder Charms	3	Radament Item (H) Desecrated B	3																							0
 Radament (H) Desecrated C	21	93	-6					0	Sunder Charms	3	Radament Item (H) Desecrated C	3																							0
@@ -733,76 +733,76 @@ Radament (H) Desecrated D	21	96	-6					0	Sunder Charms	3	Radament Item (H) Desec
 Flying Scimitar			1					100	Act 2 Good	3	scm	57																							0
 Flying Scimitar (N)			1					100	Act 2 (N) Good	3	scm	25	9sm	32																					0
 Flying Scimitar (H)			1					100	Act 2 (H) Good	3	scm	7	9sm	18	7sm	32																			0
-Mephisto			-6	983	983	983	1024	15	gld,mul=1280	1	Act 4 Equip A	2	Act 4 Junk	1	Act 4 Good	2																			0
-Mephisto Desecrated A	22	26	-6	983	983	983	1024	15	gld,mul=1280	1	Act 4 Equip A	2	Act 4 Junk	1	Act 4 Good	2																			0
-Mephisto Desecrated B	22	38	-6	983	983	983	1024	15	gld,mul=1280	1	Act 5 Equip C	2	Act 5 Junk	1	Act 5 Good	2																			0
-Mephisto Desecrated C	22	48	-6	983	983	983	1024	15	gld,mul=1280	1	Act 3 (N) Equip A	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
-Mephisto (N)			-6	983	983	983	1024	15	gld,mul=1536	1	Act 4 (N) Equip A	2	Act 4 (N) Junk	1	Act 4 (N) Good	2																			0
-Mephisto (N) Desecrated A	22	59	-6	983	983	983	1024	15	gld,mul=1536	1	Act 4 (N) Equip B	2	Act 4 (N) Junk	1	Act 4 (N) Good	2																			0
-Mephisto (N) Desecrated B	22	66	-6	983	983	983	1024	15	gld,mul=1536	1	Act 5 (N) Equip C	2	Act 5 (N) Junk	1	Act 5 (N) Good	2																			0
-Mephisto (N) Desecrated C	22	73	-6	983	983	983	1024	15	gld,mul=1536	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	2																			0
-Mephisto (H)			-6	983	983	983	1024	15	gld,mul=2048	1	Act 4 (H) Equip A	2	Act 4 (H) Junk	1	Act 4 (H) Good	1	ceh	1																	0
-Mephisto Item (H) Desecrated A			-6	983	983	983	1024	15	gld,mul=2048	1	Act 4 (H) Equip B	2	Act 4 (H) Junk	1	Act 4 (H) Good	1	ceh	1																	0
-Mephisto Item (H) Desecrated B			-6	983	983	983	1024	15	gld,mul=2048	1	Act 5 (H) Equip A	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	ceh	1																	0
-Mephisto Item (H) Desecrated C			-6	983	983	983	1024	15	gld,mul=2048	1	Act 5 (H) Equip B	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	ceh	1																	0
-Mephisto Item (H) Desecrated D			-6	983	983	983	1024	15	gld,mul=2048	1	Act 5 (H) Equip C	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	ceh	1																	0
+Mephisto			-6	1000	1000	983	1024	15	gld,mul=1280	1	Act 4 Equip A	2	Act 4 Junk	1	Act 4 Good	2																			0
+Mephisto Desecrated A	22	26	-6	1000	1000	983	1024	15	gld,mul=1280	1	Act 4 Equip A	2	Act 4 Junk	1	Act 4 Good	2																			0
+Mephisto Desecrated B	22	38	-6	1000	1000	983	1024	15	gld,mul=1280	1	Act 5 Equip C	2	Act 5 Junk	1	Act 5 Good	2																			0
+Mephisto Desecrated C	22	48	-6	1000	1000	983	1024	15	gld,mul=1280	1	Act 3 (N) Equip A	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
+Mephisto (N)			-6	1000	1000	983	1024	15	gld,mul=1536	1	Act 4 (N) Equip A	2	Act 4 (N) Junk	1	Act 4 (N) Good	2																			0
+Mephisto (N) Desecrated A	22	59	-6	1000	1000	983	1024	15	gld,mul=1536	1	Act 4 (N) Equip B	2	Act 4 (N) Junk	1	Act 4 (N) Good	2																			0
+Mephisto (N) Desecrated B	22	66	-6	1000	1000	983	1024	15	gld,mul=1536	1	Act 5 (N) Equip C	2	Act 5 (N) Junk	1	Act 5 (N) Good	2																			0
+Mephisto (N) Desecrated C	22	73	-6	1000	1000	983	1024	15	gld,mul=1536	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	2																			0
+Mephisto (H)			-6	1000	1000	983	1024	15	gld,mul=2048	1	Act 4 (H) Equip A	2	Act 4 (H) Junk	1	Act 4 (H) Good	1	ceh	1																	0
+Mephisto Item (H) Desecrated A			-6	1000	1000	983	1024	15	gld,mul=2048	1	Act 4 (H) Equip B	2	Act 4 (H) Junk	1	Act 4 (H) Good	1	ceh	1																	0
+Mephisto Item (H) Desecrated B			-6	1000	1000	983	1024	15	gld,mul=2048	1	Act 5 (H) Equip A	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	ceh	1																	0
+Mephisto Item (H) Desecrated C			-6	1000	1000	983	1024	15	gld,mul=2048	1	Act 5 (H) Equip B	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	ceh	1																	0
+Mephisto Item (H) Desecrated D			-6	1000	1000	983	1024	15	gld,mul=2048	1	Act 5 (H) Equip C	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	ceh	1																	0
 Mephisto (H) Desecrated A	22	87	-4					0	Sunder Charms	3	Mephisto Item (H) Desecrated A	3																							0
 Mephisto (H) Desecrated B	22	90	-4					0	Sunder Charms	3	Mephisto Item (H) Desecrated B	3																							0
 Mephisto (H) Desecrated C	22	93	-4					0	Sunder Charms	3	Mephisto Item (H) Desecrated C	3																							0
 Mephisto (H) Desecrated D	22	96	-4					0	Sunder Charms	3	Mephisto Item (H) Desecrated D	3																							0
-Mephistoq			-6	993	993	1024	1024	15	Act 4 Equip A	3	Act 4 Good	3																							0
-Mephistoq (N)			-6	993	993	1024	1024	15	Act 4 (N) Equip A	3	Act 4 (N) Good	3																							0
-Mephistoq (H)			-6	993	993	1024	1024	15	Act 4 (H) Equip A	2	Act 4 (H) Good	3	ceh	1																					0
-Diablo			-6	983	983	983	1024	15	gld,mul=1280	1	Act 5 Equip A	2	Act 5 Junk	1	Act 5 Good	2																			0
-Diablo Desecrated A	23	40	-6	983	983	983	1024	15	gld,mul=1280	1	Act 1 (N) Equip A	2	Act 1 (N) Junk	1	Act 1 (N) Good	2																			0
-Diablo Desecrated B	23	48	-6	983	983	983	1024	15	gld,mul=1280	1	Act 3 (N) Equip A	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
-Diablo (N)			-6	983	983	983	1024	15	gld,mul=1536	1	Act 5 (N) Equip A	2	Act 5 (N) Junk	1	Act 5 (N) Good	2																			0
-Diablo (N) Desecrated A	23	62	-6	983	983	983	1024	15	gld,mul=1536	1	Act 5 (N) Equip A	2	Act 5 (N) Junk	1	Act 5 (N) Good	2																			0
-Diablo (N) Desecrated B	23	67	-6	983	983	983	1024	15	gld,mul=1536	1	Act 1 (H) Equip A	2	Act 1 (H) Junk	1	Act 1 (H) Good	2																			0
-Diablo (N) Desecrated C	23	73	-6	983	983	983	1024	15	gld,mul=1536	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	2																			0
-Diablo (H)			-6	983	983	983	1024	15	gld,mul=2048	1	Act 5 (H) Equip A	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	bet	1																	0
-Diablo Item (H) Desecrated A			-6	983	983	983	1024	15	gld,mul=2048	1	Act 5 (H) Equip B	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	bet	1																	0
-Diablo Item (H) Desecrated B			-6	983	983	983	1024	15	gld,mul=2048	1	Act 5 (H) Equip C	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	bet	1																	0
+Mephistoq			-6	1000	1000	1024	1024	15	Act 4 Equip A	3	Act 4 Good	3																							0
+Mephistoq (N)			-6	1000	1000	1024	1024	15	Act 4 (N) Equip A	3	Act 4 (N) Good	3																							0
+Mephistoq (H)			-6	1000	1000	1024	1024	15	Act 4 (H) Equip A	2	Act 4 (H) Good	3	ceh	1																					0
+Diablo			-6	1000	1000	983	1024	15	gld,mul=1280	1	Act 5 Equip A	2	Act 5 Junk	1	Act 5 Good	2																			0
+Diablo Desecrated A	23	40	-6	1000	1000	983	1024	15	gld,mul=1280	1	Act 1 (N) Equip A	2	Act 1 (N) Junk	1	Act 1 (N) Good	2																			0
+Diablo Desecrated B	23	48	-6	1000	1000	983	1024	15	gld,mul=1280	1	Act 3 (N) Equip A	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
+Diablo (N)			-6	1000	1000	983	1024	15	gld,mul=1536	1	Act 5 (N) Equip A	2	Act 5 (N) Junk	1	Act 5 (N) Good	2																			0
+Diablo (N) Desecrated A	23	62	-6	1000	1000	983	1024	15	gld,mul=1536	1	Act 5 (N) Equip A	2	Act 5 (N) Junk	1	Act 5 (N) Good	2																			0
+Diablo (N) Desecrated B	23	67	-6	1000	1000	983	1024	15	gld,mul=1536	1	Act 1 (H) Equip A	2	Act 1 (H) Junk	1	Act 1 (H) Good	2																			0
+Diablo (N) Desecrated C	23	73	-6	1000	1000	983	1024	15	gld,mul=1536	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	2																			0
+Diablo (H)			-6	1000	1000	983	1024	15	gld,mul=2048	1	Act 5 (H) Equip A	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	bet	1																	0
+Diablo Item (H) Desecrated A			-6	1000	1000	983	1024	15	gld,mul=2048	1	Act 5 (H) Equip B	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	bet	1																	0
+Diablo Item (H) Desecrated B			-6	1000	1000	983	1024	15	gld,mul=2048	1	Act 5 (H) Equip C	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	bet	1																	0
 Diablo (H) Desecrated A	23	94	-6					0	Sunder Charms	3	Diablo Item (H) Desecrated A	3																							0
 Diablo (H) Desecrated B	23	96	-6					0	Sunder Charms	3	Diablo Item (H) Desecrated B	3																							0
-Diabloq			-6	993	993	1024	1024	15	Act 5 Equip A	3	Act 5 Good	3																							0
-Diabloq (N)			-6	993	993	1024	1024	15	Act 5 (N) Equip A	3	Act 5 (N) Good	3																							0
-Diabloq (H)			-6	993	993	1024	1024	15	Act 5 (H) Equip A	3	Act 5 (H) Good	2	bet	1																					0
-Summoner			-6	900	900	972	1024	19	gld,mul=1280	1	Act 2 Equip C	2	Act 3 Junk	1	Act 2 Good	1	Act 3 Magic A	1																	0
-Summoner Desecrated A	24	18	-6	900	900	972	1024	19	gld,mul=1280	1	Act 2 Equip C	2	Act 3 Junk	1	Act 2 Good	1	Act 3 Magic A	1																	0
-Summoner Desecrated B	24	32	-6	900	900	972	1024	19	gld,mul=1280	1	Act 4 Equip B	2	Act 5 Junk	1	Act 4 Good	1	Act 5 Magic A	1																	0
-Summoner Desecrated C	24	48	-6	900	900	972	1024	19	gld,mul=1280	1	Act 3 (N) Equip C	2	Act 4 (N) Junk	1	Act 3 (N) Good	1	Act 4 (N) Magic A	1																	0
-Summoner (N)			-6	900	900	972	1024	19	gld,mul=1536	1	Act 2 (N) Equip C	2	Act 3 (N) Junk	1	Act 2 (N) Good	1	Act 3 (N) Magic A	1																	0
-Summoner (N) Desecrated A	24	55	-6	900	900	972	1024	19	gld,mul=1536	1	Act 4 (N) Equip A	2	Act 5 (N) Junk	1	Act 4 (N) Good	1	Act 5 (N) Magic A	1																	0
-Summoner (N) Desecrated B	24	63	-6	900	900	972	1024	19	gld,mul=1536	1	Act 5 (N) Equip A	2	Act 1 (H) Junk	1	Act 5 (N) Good	1	Act 1 (H) Magic A	1																	0
-Summoner (N) Desecrated C	24	73	-6	900	900	972	1024	19	gld,mul=1536	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	1	Act 3 (H) Magic A	1																	0
-Summoner (H)			-6	900	900	972	1024	19	gld,mul=2048	1	Act 2 (H) Equip C	1	Act 3 (H) Junk	1	Act 2 (H) Good	1	Act 3 (H) Magic A	1	pk2	1															0
-Summoner Item (H) Desecrated A			-6	900	900	972	1024	19	gld,mul=2048	1	Act 4 (H) Equip A	1	Act 5 (H) Junk	1	Act 4 (H) Good	1	Act 5 (H) Magic A	1	pk2	1															0
-Summoner Item (H) Desecrated B			-6	900	900	972	1024	19	gld,mul=2048	1	Act 4 (H) Equip B	1	Act 5 (H) Junk	1	Act 4 (H) Good	1	Act 5 (H) Magic B	1	pk2	1															0
-Summoner Item (H) Desecrated C			-6	900	900	972	1024	19	gld,mul=2048	1	Act 4 (H) Equip C	1	Act 5 (H) Junk	1	Act 4 (H) Good	1	Act 5 (H) Magic A	1	pk2	1															0
-Summoner Item (H) Desecrated D			-6	900	900	972	1024	19	gld,mul=2048	1	Act 5 (H) Equip A	1	Act 5 (H) Junk	1	Act 5 (H) Good	1	Act 5 (H) Magic C	1	pk2	1															0
-Summoner Item (H) Desecrated E			-6	900	900	972	1024	19	gld,mul=2048	1	Act 5 (H) Equip B	1	Act 5 (H) Junk	1	Act 5 (H) Good	1	Act 5 (H) Magic C	1	pk2	1															0
-Summoner Item (H) Desecrated F			-6	900	900	972	1024	19	gld,mul=2048	1	Act 5 (H) Equip C	1	Act 5 (H) Junk	1	Act 5 (H) Good	1	Act 5 (H) Magic C	1	pk2	1															0
+Diabloq			-6	1000	1000	1024	1024	15	Act 5 Equip A	3	Act 5 Good	3																							0
+Diabloq (N)			-6	1000	1000	1024	1024	15	Act 5 (N) Equip A	3	Act 5 (N) Good	3																							0
+Diabloq (H)			-6	1000	1000	1024	1024	15	Act 5 (H) Equip A	3	Act 5 (H) Good	2	bet	1																					0
+Summoner			-6	1000	1000	972	1024	19	gld,mul=1280	1	Act 2 Equip C	2	Act 3 Junk	1	Act 2 Good	1	Act 3 Magic A	1																	0
+Summoner Desecrated A	24	18	-6	1000	1000	972	1024	19	gld,mul=1280	1	Act 2 Equip C	2	Act 3 Junk	1	Act 2 Good	1	Act 3 Magic A	1																	0
+Summoner Desecrated B	24	32	-6	1000	1000	972	1024	19	gld,mul=1280	1	Act 4 Equip B	2	Act 5 Junk	1	Act 4 Good	1	Act 5 Magic A	1																	0
+Summoner Desecrated C	24	48	-6	1000	1000	972	1024	19	gld,mul=1280	1	Act 3 (N) Equip C	2	Act 4 (N) Junk	1	Act 3 (N) Good	1	Act 4 (N) Magic A	1																	0
+Summoner (N)			-6	1000	1000	972	1024	19	gld,mul=1536	1	Act 2 (N) Equip C	2	Act 3 (N) Junk	1	Act 2 (N) Good	1	Act 3 (N) Magic A	1																	0
+Summoner (N) Desecrated A	24	55	-6	1000	1000	972	1024	19	gld,mul=1536	1	Act 4 (N) Equip A	2	Act 5 (N) Junk	1	Act 4 (N) Good	1	Act 5 (N) Magic A	1																	0
+Summoner (N) Desecrated B	24	63	-6	1000	1000	972	1024	19	gld,mul=1536	1	Act 5 (N) Equip A	2	Act 1 (H) Junk	1	Act 5 (N) Good	1	Act 1 (H) Magic A	1																	0
+Summoner (N) Desecrated C	24	73	-6	1000	1000	972	1024	19	gld,mul=1536	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	1	Act 3 (H) Magic A	1																	0
+Summoner (H)			-6	1000	1000	972	1024	19	gld,mul=2048	1	Act 2 (H) Equip C	1	Act 3 (H) Junk	1	Act 2 (H) Good	1	Act 3 (H) Magic A	1	pk2	1															0
+Summoner Item (H) Desecrated A			-6	1000	1000	972	1024	19	gld,mul=2048	1	Act 4 (H) Equip A	1	Act 5 (H) Junk	1	Act 4 (H) Good	1	Act 5 (H) Magic A	1	pk2	1															0
+Summoner Item (H) Desecrated B			-6	1000	1000	972	1024	19	gld,mul=2048	1	Act 4 (H) Equip B	1	Act 5 (H) Junk	1	Act 4 (H) Good	1	Act 5 (H) Magic B	1	pk2	1															0
+Summoner Item (H) Desecrated C			-6	1000	1000	972	1024	19	gld,mul=2048	1	Act 4 (H) Equip C	1	Act 5 (H) Junk	1	Act 4 (H) Good	1	Act 5 (H) Magic A	1	pk2	1															0
+Summoner Item (H) Desecrated D			-6	1000	1000	972	1024	19	gld,mul=2048	1	Act 5 (H) Equip A	1	Act 5 (H) Junk	1	Act 5 (H) Good	1	Act 5 (H) Magic C	1	pk2	1															0
+Summoner Item (H) Desecrated E			-6	1000	1000	972	1024	19	gld,mul=2048	1	Act 5 (H) Equip B	1	Act 5 (H) Junk	1	Act 5 (H) Good	1	Act 5 (H) Magic C	1	pk2	1															0
+Summoner Item (H) Desecrated F			-6	1000	1000	972	1024	19	gld,mul=2048	1	Act 5 (H) Equip C	1	Act 5 (H) Junk	1	Act 5 (H) Good	1	Act 5 (H) Magic C	1	pk2	1															0
 Summoner (H) Desecrated A	24	80	-6					0	Sunder Charms	3	Summoner Item (H) Desecrated A	3																							0
 Summoner (H) Desecrated B	24	84	-6					0	Sunder Charms	3	Summoner Item (H) Desecrated B	3																							0
 Summoner (H) Desecrated C	24	87	-6					0	Sunder Charms	3	Summoner Item (H) Desecrated C	3																							0
 Summoner (H) Desecrated D	24	90	-6					0	Sunder Charms	3	Summoner Item (H) Desecrated D	3																							0
 Summoner (H) Desecrated E	24	93	-6					0	Sunder Charms	3	Summoner Item (H) Desecrated E	3																							0
 Summoner (H) Desecrated F	24	96	-6					0	Sunder Charms	3	Summoner Item (H) Desecrated F	3																							0
-Council			-6	650	800	800	1024	19	gld,mul=1280	1	Act 4 Equip A	2	Act 4 Junk	1	Act 4 Good	1	Act 4 Magic A	1																	0
-Council Desecrated A	25	28	-6	650	800	800	1024	19	gld,mul=1280	1	Act 4 Equip B	2	Act 4 Junk	1	Act 4 Good	1	Act 4 Magic B	1																	0
-Council Desecrated B	25	38	-6	650	800	800	1024	19	gld,mul=1280	1	Act 5 Equip C	2	Act 5 Junk	1	Act 5 Good	1	Act 5 Magic C	1																	0
-Council Desecrated C	25	48	-6	650	800	800	1024	19	gld,mul=1280	1	Act 3 (N) Equip A	2	Act 3 (N) Junk	1	Act 3 (N) Good	1	Act 3 (N) Magic A	1																	0
-Council (N)			-6	650	800	800	1024	19	gld,mul=1536	1	Act 4 (N) Equip A	2	Act 4 (N) Junk	1	Act 4 (N) Good	1	Act 4 (N) Magic A	1																	0
-Council (N) Desecrated A	25	57	-6	650	800	800	1024	19	gld,mul=1536	1	Act 4 (N) Equip B	2	Act 4 (N) Junk	1	Act 4 (N) Good	1	Act 4 (N) Magic B	1																	0
-Council (N) Desecrated B	25	66	-6	650	800	800	1024	19	gld,mul=1536	1	Act 5 (N) Equip C	2	Act 5 (N) Junk	1	Act 5 (N) Good	1	Act 5 (N) Magic C	1																	0
-Council (N) Desecrated C	25	73	-6	650	800	800	1024	19	gld,mul=1536	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	1	Act 3 (H) Magic A	1																	0
-Council (H)			-6	650	800	800	1024	19	gld,mul=2048	1	Act 4 (H) Equip A	2	Act 4 (H) Junk	1	Act 4 (H) Good	1	Act 4 (H) Magic A	1																	0
-Council Item (H) Desecrated A			-6	650	800	800	1024	19	gld,mul=2048	1	Act 4 (H) Equip B	2	Act 4 (H) Junk	1	Act 4 (H) Good	1	Act 4 (H) Magic B	1																	0
-Council Item (H) Desecrated B			-6	650	800	800	1024	19	gld,mul=2048	1	Act 4 (H) Equip C	2	Act 4 (H) Junk	1	Act 4 (H) Good	1	Act 4 (H) Magic B	1																	0
-Council Item (H) Desecrated C			-6	650	800	800	1024	19	gld,mul=2048	1	Act 5 (H) Equip A	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	Act 5 (H) Magic A	1																	0
-Council Item (H) Desecrated D			-6	650	800	800	1024	19	gld,mul=2048	1	Act 5 (H) Equip B	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	Act 5 (H) Magic B	1																	0
-Council Item (H) Desecrated E			-6	650	800	800	1024	19	gld,mul=2048	1	Act 5 (H) Equip C	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	Act 5 (H) Magic C	1																	0
+Council			-6	850	850	800	1024	19	gld,mul=1280	1	Act 4 Equip A	2	Act 4 Junk	1	Act 4 Good	1	Act 4 Magic A	1																	0
+Council Desecrated A	25	28	-6	850	850	800	1024	19	gld,mul=1280	1	Act 4 Equip B	2	Act 4 Junk	1	Act 4 Good	1	Act 4 Magic B	1																	0
+Council Desecrated B	25	38	-6	850	850	800	1024	19	gld,mul=1280	1	Act 5 Equip C	2	Act 5 Junk	1	Act 5 Good	1	Act 5 Magic C	1																	0
+Council Desecrated C	25	48	-6	850	850	800	1024	19	gld,mul=1280	1	Act 3 (N) Equip A	2	Act 3 (N) Junk	1	Act 3 (N) Good	1	Act 3 (N) Magic A	1																	0
+Council (N)			-6	850	850	800	1024	19	gld,mul=1536	1	Act 4 (N) Equip A	2	Act 4 (N) Junk	1	Act 4 (N) Good	1	Act 4 (N) Magic A	1																	0
+Council (N) Desecrated A	25	57	-6	850	850	800	1024	19	gld,mul=1536	1	Act 4 (N) Equip B	2	Act 4 (N) Junk	1	Act 4 (N) Good	1	Act 4 (N) Magic B	1																	0
+Council (N) Desecrated B	25	66	-6	850	850	800	1024	19	gld,mul=1536	1	Act 5 (N) Equip C	2	Act 5 (N) Junk	1	Act 5 (N) Good	1	Act 5 (N) Magic C	1																	0
+Council (N) Desecrated C	25	73	-6	850	850	800	1024	19	gld,mul=1536	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	1	Act 3 (H) Magic A	1																	0
+Council (H)			-6	850	850	800	1024	19	gld,mul=2048	1	Act 4 (H) Equip A	2	Act 4 (H) Junk	1	Act 4 (H) Good	1	Act 4 (H) Magic A	1																	0
+Council Item (H) Desecrated A			-6	850	850	800	1024	19	gld,mul=2048	1	Act 4 (H) Equip B	2	Act 4 (H) Junk	1	Act 4 (H) Good	1	Act 4 (H) Magic B	1																	0
+Council Item (H) Desecrated B			-6	850	850	800	1024	19	gld,mul=2048	1	Act 4 (H) Equip C	2	Act 4 (H) Junk	1	Act 4 (H) Good	1	Act 4 (H) Magic B	1																	0
+Council Item (H) Desecrated C			-6	850	850	800	1024	19	gld,mul=2048	1	Act 5 (H) Equip A	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	Act 5 (H) Magic A	1																	0
+Council Item (H) Desecrated D			-6	850	850	800	1024	19	gld,mul=2048	1	Act 5 (H) Equip B	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	Act 5 (H) Magic B	1																	0
+Council Item (H) Desecrated E			-6	850	850	800	1024	19	gld,mul=2048	1	Act 5 (H) Equip C	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	Act 5 (H) Magic C	1																	0
 Council (H) Desecrated A	25	85	-6					0	Sunder Charms	3	Council Item (H) Desecrated A	3																							0
 Council (H) Desecrated B	25	87	-6					0	Sunder Charms	3	Council Item (H) Desecrated B	3																							0
 Council (H) Desecrated C	25	90	-6					0	Sunder Charms	3	Council Item (H) Desecrated C	3																							0
@@ -827,51 +827,51 @@ Cow (H)			-6					100	gld	1	Act 5 (H) Equip B	1	Act 5 (H) Junk	3	Act 5 (H) Good	1
 Trapped Soul			-6					100	gld	1	Act 4 Equip A	2	Act 4 Junk	3																					0
 Trapped Soul (N)			-6					100	gld	1	Act 4 (N) Equip A	2	Act 4 (N) Junk	3																					0
 Trapped Soul (H)			-6					100	gld	1	Act 4 (H) Equip A	2	Act 4 (H) Junk	3																					0
-Haphesto			-6	800	800	900	1024	19	gld,mul=1280	1	Act 5 Equip A	2	Act 5 Junk	1	Act 5 Good	2																			0
-Haphesto Desecrated A	27	28	-6	800	800	900	1024	19	gld,mul=1280	1	Act 5 Equip A	2	Act 5 Junk	1	Act 5 Good	2																			0
-Haphesto Desecrated B	27	38	-6	800	800	900	1024	19	gld,mul=1280	1	Act 5 Equip C	2	Act 5 Junk	1	Act 5 Good	2																			0
-Haphesto Desecrated C	27	48	-6	800	800	900	1024	19	gld,mul=1280	1	Act 3 (N) Equip C	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
-Haphesto (N)			-6	800	800	900	1024	19	gld,mul=1536	1	Act 5 (N) Equip A	2	Act 5 (N) Junk	1	Act 5 (N) Good	2																			0
-Haphesto (N) Desecrated A	27	60	-6	800	800	900	1024	19	gld,mul=1536	1	Act 5 (N) Equip A	2	Act 5 (N) Junk	1	Act 5 (N) Good	2																			0
-Haphesto (N) Desecrated B	27	66	-6	800	800	900	1024	19	gld,mul=1536	1	Act 5 (N) Equip C	2	Act 5 (N) Junk	1	Act 5 (N) Good	2																			0
-Haphesto (N) Desecrated C	27	73	-6	800	800	900	1024	19	gld,mul=1536	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	2																			0
-Haphesto (H)			-6	800	800	900	1024	19	gld,mul=2048	1	Act 5 (H) Equip A	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
-Haphesto Item (H) Desecrated A			-6	800	800	900	1024	19	gld,mul=2048	1	Act 5 (H) Equip A	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
-Haphesto Item (H) Desecrated B			-6	800	800	900	1024	19	gld,mul=2048	1	Act 5 (H) Equip B	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
-Haphesto Item (H) Desecrated C			-6	800	800	900	1024	19	gld,mul=2048	1	Act 5 (H) Equip C	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
+Haphesto			-6	950	950	900	1024	19	gld,mul=1280	1	Act 5 Equip A	2	Act 5 Junk	1	Act 5 Good	2																			0
+Haphesto Desecrated A	27	28	-6	950	950	900	1024	19	gld,mul=1280	1	Act 5 Equip A	2	Act 5 Junk	1	Act 5 Good	2																			0
+Haphesto Desecrated B	27	38	-6	950	950	900	1024	19	gld,mul=1280	1	Act 5 Equip C	2	Act 5 Junk	1	Act 5 Good	2																			0
+Haphesto Desecrated C	27	48	-6	950	950	900	1024	19	gld,mul=1280	1	Act 3 (N) Equip C	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
+Haphesto (N)			-6	950	950	900	1024	19	gld,mul=1536	1	Act 5 (N) Equip A	2	Act 5 (N) Junk	1	Act 5 (N) Good	2																			0
+Haphesto (N) Desecrated A	27	60	-6	950	950	900	1024	19	gld,mul=1536	1	Act 5 (N) Equip A	2	Act 5 (N) Junk	1	Act 5 (N) Good	2																			0
+Haphesto (N) Desecrated B	27	66	-6	950	950	900	1024	19	gld,mul=1536	1	Act 5 (N) Equip C	2	Act 5 (N) Junk	1	Act 5 (N) Good	2																			0
+Haphesto (N) Desecrated C	27	73	-6	950	950	900	1024	19	gld,mul=1536	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	2																			0
+Haphesto (H)			-6	950	950	900	1024	19	gld,mul=2048	1	Act 5 (H) Equip A	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
+Haphesto Item (H) Desecrated A			-6	950	950	900	1024	19	gld,mul=2048	1	Act 5 (H) Equip A	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
+Haphesto Item (H) Desecrated B			-6	950	950	900	1024	19	gld,mul=2048	1	Act 5 (H) Equip B	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
+Haphesto Item (H) Desecrated C			-6	950	950	900	1024	19	gld,mul=2048	1	Act 5 (H) Equip C	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
 Haphesto (H) Desecrated A	27	88	-6					0	Sunder Charms	3	Haphesto Item (H) Desecrated A	3																							0
 Haphesto (H) Desecrated B	27	93	-6					0	Sunder Charms	3	Haphesto Item (H) Desecrated B	3																							0
 Haphesto (H) Desecrated C	27	96	-6					0	Sunder Charms	3	Haphesto Item (H) Desecrated C	3																							0
-Nihlathak			-6	900	900	900	1024	19	gld,mul=1280	1	Act 5 Equip B	2	Act 5 Junk	1	Act 5 Good	2																			0
-Nihlathak Desecrated	28	68	-6	900	900	900	1024	19	gld,mul=1280	1	Act 3 (N) Equip A	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
-Nihlathak (N)			-6	900	900	900	1024	19	gld,mul=1536	1	Act 5 (N) Equip B	2	Act 5 (N) Junk	1	Act 5 (N) Good	2																			0
-Nihlathak (N) Desecrated	28	73	-6	900	900	900	1024	19	gld,mul=1280	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	2																			0
-Nihlathak (H)			-6	900	900	900	1024	19	gld,mul=2048	1	Act 5 (H) Equip B	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	pk3	1																	0
-Nihlathak Item (H) Desecrated			-6	900	900	900	1024	19	gld,mul=2048	1	Act 5 (H) Equip C	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	pk3	1																	0
+Nihlathak			-6	950	950	900	1024	19	gld,mul=1280	1	Act 5 Equip B	2	Act 5 Junk	1	Act 5 Good	2																			0
+Nihlathak Desecrated	28	68	-6	950	950	900	1024	19	gld,mul=1280	1	Act 3 (N) Equip A	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
+Nihlathak (N)			-6	950	950	900	1024	19	gld,mul=1536	1	Act 5 (N) Equip B	2	Act 5 (N) Junk	1	Act 5 (N) Good	2																			0
+Nihlathak (N) Desecrated	28	73	-6	950	950	900	1024	19	gld,mul=1280	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	2																			0
+Nihlathak (H)			-6	950	950	900	1024	19	gld,mul=2048	1	Act 5 (H) Equip B	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	pk3	1																	0
+Nihlathak Item (H) Desecrated			-6	950	950	900	1024	19	gld,mul=2048	1	Act 5 (H) Equip C	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	pk3	1																	0
 Nihlathak (H) Desecrated	28	95	-6						Sunder Charms	3	Nihlathak Item (H) Desecrated	3																							0
-Baal			-6	983	983	983	1024	15	gld,mul=1280	1	Act 1 (N) Equip A	2	Act 1 (N) Junk	1	Act 1 (N) Good	2																			0
-Baal Desecrated	29	60	-6	983	983	983	1024	15	gld,mul=1280	1	Act 3 (N) Equip A	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
-Baal (N)			-6	983	983	983	1024	15	gld,mul=1536	1	Act 1 (H) Equip A	2	Act 1 (H) Junk	1	Act 1 (H) Good	2																			0
-Baal (N) Desecrated	29	75	-6	983	983	983	1024	15	gld,mul=1536	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	2																			0
-Baal (H)			-6	983	983	983	1024	15	gld,mul=2048	1	Act 5 (H) Equip B	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	fed	1																	0
-Baal Item (H) Desecrated			-6	983	983	983	1024	15	gld,mul=2048	1	Act 5 (H) Equip C	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	fed	1																	0
+Baal			-6	1000	1000	983	1024	15	gld,mul=1280	1	Act 1 (N) Equip A	2	Act 1 (N) Junk	1	Act 1 (N) Good	2																			0
+Baal Desecrated	29	60	-6	1000	1000	983	1024	15	gld,mul=1280	1	Act 3 (N) Equip A	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
+Baal (N)			-6	1000	1000	983	1024	15	gld,mul=1536	1	Act 1 (H) Equip A	2	Act 1 (H) Junk	1	Act 1 (H) Good	2																			0
+Baal (N) Desecrated	29	75	-6	1000	1000	983	1024	15	gld,mul=1536	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	2																			0
+Baal (H)			-6	1000	1000	983	1024	15	gld,mul=2048	1	Act 5 (H) Equip B	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	fed	1																	0
+Baal Item (H) Desecrated			-6	1000	1000	983	1024	15	gld,mul=2048	1	Act 5 (H) Equip C	2	Act 5 (H) Junk	1	Act 5 (H) Good	1	fed	1																	0
 Baal (H) Desecrated	29	99	-6					0	Sunder Charms	3	Baal Item (H) Desecrated	3																							0
-Baalq			-6	993	993	1024	1024	15	Act 1 (N) Equip A	3	Act 1 (N) Good	3																							0
-Baalq (N)			-6	993	993	1024	1024	15	Act 1 (H) Equip A	3	Act 1 (H) Good	3																							0
-Baalq (H)			-6	993	993	1024	1024	15	Act 5 (H) Equip B	3	Act 5 (H) Good	2	fed	1																					0
-Blood Raven			-6	800	800	972	1024	19	gld,mul=1280	1	Act 1 Equip B	2	Act 1 Junk	1	Act 1 Good	2																			0
-Blood Raven Desecrated A	30	10	-6	800	800	972	1024	19	gld,mul=1280	1	Act 1 Equip C	2	Act 1 Junk	1	Act 1 Good	2																			0
-Blood Raven Desecrated B	30	29	-6	800	800	972	1024	19	gld,mul=1280	1	Act 4 Equip B	2	Act 4 Junk	1	Act 4 Good	2																			0
-Blood Raven Desecrated C	30	48	-6	800	800	972	1024	19	gld,mul=1280	1	Act 3 (N) Equip A	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
-Blood Raven (N)			-6	800	800	972	1024	19	gld,mul=1536	1	Act 1 (N) Equip B	2	Act 1 (N) Junk	1	Act 1 (N) Good	2																			0
-Blood Raven (N) Desecrated A	30	43	-6	800	800	972	1024	19	gld,mul=1536	1	Act 1 (N) Equip C	2	Act 1 (N) Junk	1	Act 1 (N) Good	2																			0
-Blood Raven (N) Desecrated B	30	57	-6	800	800	972	1024	19	gld,mul=1536	1	Act 4 (N) Equip B	2	Act 4 (N) Junk	1	Act 4 (N) Good	2																			0
-Blood Raven (N) Desecrated C	30	73	-6	800	800	972	1024	19	gld,mul=1536	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	2																			0
-Blood Raven (H)			-6	800	800	972	1024	19	gld,mul=2048	1	Act 1 (H) Equip B	2	Act 1 (H) Junk	1	Act 1 (H) Good	2																			0
-Blood Raven Item (H) Desecrated A			-6	800	800	972	1024	19	gld,mul=2048	1	Act 4 (H) Equip B	2	Act 4 (H) Junk	1	Act 4 (H) Good	2																			0
-Blood Raven Item (H) Desecrated B			-6	800	800	972	1024	19	gld,mul=2048	1	Act 5 (H) Equip A	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
-Blood Raven Item (H) Desecrated C			-6	800	800	972	1024	19	gld,mul=2048	1	Act 5 (H) Equip B	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
-Blood Raven Item (H) Desecrated D			-6	800	800	972	1024	19	gld,mul=2048	1	Act 5 (H) Equip C	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
+Baalq			-6	1000	1000	1024	1024	15	Act 1 (N) Equip A	3	Act 1 (N) Good	3																							0
+Baalq (N)			-6	1000	1000	1024	1024	15	Act 1 (H) Equip A	3	Act 1 (H) Good	3																							0
+Baalq (H)			-6	1000	1000	1024	1024	15	Act 5 (H) Equip B	3	Act 5 (H) Good	2	fed	1																					0
+Blood Raven			-6	1000	1000	972	1024	19	gld,mul=1280	1	Act 1 Equip B	2	Act 1 Junk	1	Act 1 Good	2																			0
+Blood Raven Desecrated A	30	10	-6	1000	1000	972	1024	19	gld,mul=1280	1	Act 1 Equip C	2	Act 1 Junk	1	Act 1 Good	2																			0
+Blood Raven Desecrated B	30	29	-6	1000	1000	972	1024	19	gld,mul=1280	1	Act 4 Equip B	2	Act 4 Junk	1	Act 4 Good	2																			0
+Blood Raven Desecrated C	30	48	-6	1000	1000	972	1024	19	gld,mul=1280	1	Act 3 (N) Equip A	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
+Blood Raven (N)			-6	1000	1000	972	1024	19	gld,mul=1536	1	Act 1 (N) Equip B	2	Act 1 (N) Junk	1	Act 1 (N) Good	2																			0
+Blood Raven (N) Desecrated A	30	43	-6	1000	1000	972	1024	19	gld,mul=1536	1	Act 1 (N) Equip C	2	Act 1 (N) Junk	1	Act 1 (N) Good	2																			0
+Blood Raven (N) Desecrated B	30	57	-6	1000	1000	972	1024	19	gld,mul=1536	1	Act 4 (N) Equip B	2	Act 4 (N) Junk	1	Act 4 (N) Good	2																			0
+Blood Raven (N) Desecrated C	30	73	-6	1000	1000	972	1024	19	gld,mul=1536	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	2																			0
+Blood Raven (H)			-6	1000	1000	972	1024	19	gld,mul=2048	1	Act 1 (H) Equip B	2	Act 1 (H) Junk	1	Act 1 (H) Good	2																			0
+Blood Raven Item (H) Desecrated A			-6	1000	1000	972	1024	19	gld,mul=2048	1	Act 4 (H) Equip B	2	Act 4 (H) Junk	1	Act 4 (H) Good	2																			0
+Blood Raven Item (H) Desecrated B			-6	1000	1000	972	1024	19	gld,mul=2048	1	Act 5 (H) Equip A	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
+Blood Raven Item (H) Desecrated C			-6	1000	1000	972	1024	19	gld,mul=2048	1	Act 5 (H) Equip B	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
+Blood Raven Item (H) Desecrated D			-6	1000	1000	972	1024	19	gld,mul=2048	1	Act 5 (H) Equip C	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
 Blood Raven (H) Desecrated A	30	88	-6					0	Sunder Charms	3	Blood Raven Item (H) Desecrated A	3																							0
 Blood Raven (H) Desecrated B	30	90	-6					0	Sunder Charms	3	Blood Raven Item (H) Desecrated B	3																							0
 Blood Raven (H) Desecrated C	30	93	-6					0	Sunder Charms	3	Blood Raven Item (H) Desecrated C	3																							0
@@ -894,125 +894,125 @@ Smith (H) Desecrated F	31	87	-6					0	Sunder Charms	2	Act 4 (H) Uitem B	2	Act 4 
 Smith (H) Desecrated G	31	90	-6					0	Sunder Charms	2	Act 5 (H) Uitem A	2	Act 5 (H) Melee A	2																					0
 Smith (H) Desecrated H	31	93	-6					0	Sunder Charms	2	Act 5 (H) Uitem B	2	Act 5 (H) Melee B	2																					0
 Smith (H) Desecrated I	31	96	-6					0	Sunder Charms	2	Act 5 (H) Uitem C	2	Act 5 (H) Melee C	2																					0
-Izual			-6	800	800	972	1024	19	gld,mul=1280	1	Act 4 Equip B	2	Act 4 Junk	1	Act 4 Good	2																			0
-Izual Desecrated A	32	29	-6	800	800	972	1024	19	gld,mul=1280	1	Act 4 Equip B	2	Act 4 Junk	1	Act 4 Good	2																			0
-Izual Desecrated B	32	38	-6	800	800	972	1024	19	gld,mul=1280	1	Act 5 Equip C	2	Act 5 Junk	1	Act 5 Good	2																			0
-Izual Desecrated C	32	48	-6	800	800	972	1024	19	gld,mul=1280	1	Act 3 (N) Equip A	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
-Izual (N)			-6	800	800	972	1024	19	gld,mul=1536	1	Act 4 (N) Equip B	2	Act 4 (N) Junk	1	Act 4 (N) Good	2																			0
-Izual (N) Desecrated A	32	60	-6	800	800	972	1024	19	gld,mul=1536	1	Act 4 (N) Equip B	2	Act 4 (N) Junk	1	Act 4 (N) Good	2																			0
-Izual (N) Desecrated B	32	66	-6	800	800	972	1024	19	gld,mul=1536	1	Act 5 (N) Equip C	2	Act 5 (N) Junk	1	Act 5 (N) Good	2																			0
-Izual (N) Desecrated C	32	73	-6	800	800	972	1024	19	gld,mul=1536	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	2																			0
-Izual (H)			-6	800	800	972	1024	19	gld,mul=2048	1	Act 4 (H) Equip B	2	Act 4 (H) Junk	1	Act 4 (H) Good	2																			0
-Izual Item (H) Desecrated A			-6	800	800	972	1024	19	gld,mul=2048	1	Act 4 (H) Equip B	2	Act 4 (H) Junk	1	Act 4 (H) Good	2																			0
-Izual Item (H) Desecrated B			-6	800	800	972	1024	19	gld,mul=2048	1	Act 5 (H) Equip A	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
-Izual Item (H) Desecrated C			-6	800	800	972	1024	19	gld,mul=2048	1	Act 5 (H) Equip B	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
-Izual Item (H) Desecrated D			-6	800	800	972	1024	19	gld,mul=2048	1	Act 5 (H) Equip C	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
+Izual			-6	1000	1000	972	1024	19	gld,mul=1280	1	Act 4 Equip B	2	Act 4 Junk	1	Act 4 Good	2																			0
+Izual Desecrated A	32	29	-6	1000	1000	972	1024	19	gld,mul=1280	1	Act 4 Equip B	2	Act 4 Junk	1	Act 4 Good	2																			0
+Izual Desecrated B	32	38	-6	1000	1000	972	1024	19	gld,mul=1280	1	Act 5 Equip C	2	Act 5 Junk	1	Act 5 Good	2																			0
+Izual Desecrated C	32	48	-6	1000	1000	972	1024	19	gld,mul=1280	1	Act 3 (N) Equip A	2	Act 3 (N) Junk	1	Act 3 (N) Good	2																			0
+Izual (N)			-6	1000	1000	972	1024	19	gld,mul=1536	1	Act 4 (N) Equip B	2	Act 4 (N) Junk	1	Act 4 (N) Good	2																			0
+Izual (N) Desecrated A	32	60	-6	1000	1000	972	1024	19	gld,mul=1536	1	Act 4 (N) Equip B	2	Act 4 (N) Junk	1	Act 4 (N) Good	2																			0
+Izual (N) Desecrated B	32	66	-6	1000	1000	972	1024	19	gld,mul=1536	1	Act 5 (N) Equip C	2	Act 5 (N) Junk	1	Act 5 (N) Good	2																			0
+Izual (N) Desecrated C	32	73	-6	1000	1000	972	1024	19	gld,mul=1536	1	Act 3 (H) Equip A	2	Act 3 (H) Junk	1	Act 3 (H) Good	2																			0
+Izual (H)			-6	1000	1000	972	1024	19	gld,mul=2048	1	Act 4 (H) Equip B	2	Act 4 (H) Junk	1	Act 4 (H) Good	2																			0
+Izual Item (H) Desecrated A			-6	1000	1000	972	1024	19	gld,mul=2048	1	Act 4 (H) Equip B	2	Act 4 (H) Junk	1	Act 4 (H) Good	2																			0
+Izual Item (H) Desecrated B			-6	1000	1000	972	1024	19	gld,mul=2048	1	Act 5 (H) Equip A	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
+Izual Item (H) Desecrated C			-6	1000	1000	972	1024	19	gld,mul=2048	1	Act 5 (H) Equip B	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
+Izual Item (H) Desecrated D			-6	1000	1000	972	1024	19	gld,mul=2048	1	Act 5 (H) Equip C	2	Act 5 (H) Junk	1	Act 5 (H) Good	2																			0
 Izual (H) Desecrated A	32	86	-6					0	Sunder Charms	3	Izual Item (H) Desecrated A	3																							0
 Izual (H) Desecrated B	32	90	-6					0	Sunder Charms	3	Izual Item (H) Desecrated B	3																							0
 Izual (H) Desecrated C	32	93	-6					0	Sunder Charms	3	Izual Item (H) Desecrated C	3																							0
 Izual (H) Desecrated D	32	96	-6					0	Sunder Charms	3	Izual Item (H) Desecrated D	3																							0
-Act 1 Super A	18	0	-6	800	800	972	1024	0	Act 1 Uitem A	3	Act 1 Cpot A	3																							0
-Act 1 Super B	18	5	-6	800	800	972	1024	0	Act 1 Uitem B	3	Act 1 Cpot B	3																							0
-Act 1 Super C	18	9	-6	800	800	972	1024	0	Act 1 Uitem C	3	Act 1 Cpot C	3																							0
-Act 2 Super A	18	12	-6	800	800	972	1024	0	Act 2 Uitem A	3	Act 2 Cpot A	3																							0
-Act 2 Super B	18	15	-6	800	800	972	1024	0	Act 2 Uitem B	3	Act 2 Cpot B	3																							0
-Act 2 Super C	18	18	-6	800	800	972	1024	0	Act 2 Uitem C	3	Act 2 Cpot C	3																							0
-Act 3 Super A	18	20	-6	800	800	972	1024	0	Act 3 Uitem A	3	Act 3 Cpot A	3																							0
-Act 3 Super B	18	22	-6	800	800	972	1024	0	Act 3 Uitem B	3	Act 3 Cpot B	3																							0
-Act 3 Super C	18	24	-6	800	800	972	1024	0	Act 3 Uitem C	3	Act 3 Cpot C	3																							0
-Act 4 Super A	18	26	-6	800	800	972	1024	0	Act 4 Uitem A	3	Act 4 Cpot A	3																							0
-Act 4 Super B	18	29	-6	800	800	972	1024	0	Act 4 Uitem B	3	Act 4 Cpot B	3																							0
-Act 4 Super C	18	32	-6	800	800	972	1024	0	Act 4 Uitem B	3	Act 4 Cpot B	3																							0
-Act 5 Super A	18	34	-6	800	800	972	1024	0	Act 5 Uitem A	3	Act 5 Cpot A	3																							0
-Act 5 Super B	18	36	-6	800	800	972	1024	0	Act 5 Uitem B	3	Act 5 Cpot B	3																							0
-Act 5 Super C	18	38	-6	800	800	972	1024	0	Act 5 Uitem C	3	Act 5 Cpot C	3																							0
-Act 1 (N) Super A	18	40	-6	800	800	972	1024	0	Act 1 (N) Uitem A	3	Act 1 (N) Cpot A	3																							0
-Act 1 (N) Super B	18	41	-6	800	800	972	1024	0	Act 1 (N) Uitem B	3	Act 1 (N) Cpot B	3																							0
-Act 1 (N) Super C	18	42	-6	800	800	972	1024	0	Act 1 (N) Uitem C	3	Act 1 (N) Cpot C	3																							0
-Act 2 (N) Super A	18	44	-6	800	800	972	1024	0	Act 2 (N) Uitem A	3	Act 2 (N) Cpot A	3																							0
-Act 2 (N) Super B	18	45	-6	800	800	972	1024	0	Act 2 (N) Uitem B	3	Act 2 (N) Cpot B	3																							0
-Act 2 (N) Super C	18	46	-6	800	800	972	1024	0	Act 2 (N) Uitem C	3	Act 2 (N) Cpot C	3																							0
-Act 3 (N) Super A	18	48	-6	800	800	972	1024	0	Act 3 (N) Uitem A	3	Act 3 (N) Cpot A	3																							0
-Act 3 (N) Super B	18	50	-6	800	800	972	1024	0	Act 3 (N) Uitem B	3	Act 3 (N) Cpot B	3																							0
-Act 3 (N) Super C	18	51	-6	800	800	972	1024	0	Act 3 (N) Uitem C	3	Act 3 (N) Cpot C	3																							0
-Act 4 (N) Super A	18	54	-6	800	800	972	1024	0	Act 4 (N) Uitem A	3	Act 4 (N) Cpot A	3																							0
-Act 4 (N) Super B	18	57	-6	800	800	972	1024	0	Act 4 (N) Uitem B	3	Act 4 (N) Cpot B	3																							0
-Act 4 (N) Super C	18	60	-6	800	800	972	1024	0	Act 4 (N) Uitem B	3	Act 4 (N) Cpot B	3																							0
-Act 5 (N) Super A	18	62	-6	800	800	972	1024	0	Act 5 (N) Uitem A	3	Act 5 (N) Cpot A	3																							0
-Act 5 (N) Super B	18	63	-6	800	800	972	1024	0	Act 5 (N) Uitem B	3	Act 5 (N) Cpot B	3																							0
-Act 5 (N) Super C	18	66	-6	800	800	972	1024	0	Act 5 (N) Uitem C	3	Act 5 (N) Cpot C	3																							0
-Act 1 (H) Super A	18	67	-6	800	800	972	1024	0	Act 1 (H) Uitem A	3	Act 1 (H) Cpot A	3																							0
-Act 1 (H) Super B	18	67	-6	800	800	972	1024	0	Act 1 (H) Uitem B	3	Act 1 (H) Cpot B	3																							0
-Act 1 (H) Super C	18	68	-6	800	800	972	1024	0	Act 1 (H) Uitem C	3	Act 1 (H) Cpot C	3																							0
-Act 2 (H) Super A	18	68	-6	800	800	972	1024	0	Act 2 (H) Uitem A	3	Act 2 (H) Cpot A	3																							0
-Act 2 (H) Super B	18	69	-6	800	800	972	1024	0	Act 2 (H) Uitem B	3	Act 2 (H) Cpot B	3																							0
-Act 2 (H) Super C	18	72	-6	800	800	972	1024	0	Act 2 (H) Uitem C	3	Act 2 (H) Cpot C	3																							0
-Act 3 (H) Super A	18	73	-6	800	800	972	1024	0	Act 3 (H) Uitem A	3	Act 3 (H) Cpot A	3																							0
-Act 3 (H) Super B	18	75	-6	800	800	972	1024	0	Act 3 (H) Uitem B	3	Act 3 (H) Cpot B	3																							0
-Act 3 (H) Super C	18	78	-6	800	800	972	1024	0	Act 3 (H) Uitem C	3	Act 3 (H) Cpot C	3																							0
-Act 4 (H) Super A	18	81	-6	800	800	972	1024	0	Act 4 (H) Uitem A	3	Act 4 (H) Cpot A	3																							0
-Act 4 (H) Super B	18	84	-6	800	800	972	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Cpot B	3																							0
-Act 4 (H) Super C	18	87	-6	800	800	972	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Cpot B	3																							0
-Act 5 (H) Super A	18	90	-6	800	800	972	1024	0	Act 5 (H) Uitem A	3	Act 5 (H) Cpot A	3																							0
-Act 5 (H) Super B	18	93	-6	800	800	972	1024	0	Act 5 (H) Uitem B	3	Act 5 (H) Cpot B	3																							0
-Act 5 (H) Super C	18	96	-6	800	800	972	1024	0	Act 5 (H) Uitem C	3	Act 5 (H) Cpot C	3																							0
-Act 1 Super Ax	19	0	-6	512	654	972	1024	0	Act 1 Uitem A	3	Act 1 Cpot A	3																							0
-Act 1 Super Bx	19	5	-6	512	654	972	1024	0	Act 1 Uitem B	3	Act 1 Cpot B	3																							0
-Act 1 Super Cx	19	9	-6	512	654	972	1024	0	Act 1 Uitem C	3	Act 1 Cpot C	3																							0
-Act 2 Super Ax	19	12	-6	512	654	972	1024	0	Act 2 Uitem A	3	Act 2 Cpot A	3																							0
-Act 2 Super Bx	19	15	-6	512	654	972	1024	0	Act 2 Uitem B	3	Act 2 Cpot B	3																							0
-Act 2 Super Cx	19	18	-6	512	654	972	1024	0	Act 2 Uitem C	3	Act 2 Cpot C	3																							0
-Act 3 Super Ax	19	20	-6	512	654	972	1024	0	Act 3 Uitem A	3	Act 3 Cpot A	3																							0
-Act 3 Super Bx	19	22	-6	512	654	972	1024	0	Act 3 Uitem B	3	Act 3 Cpot B	3																							0
-Act 3 Super Cx	19	24	-6	512	654	972	1024	0	Act 3 Uitem C	3	Act 3 Cpot C	3																							0
-Act 4 Super Ax	19	26	-6	512	654	972	1024	0	Act 4 Uitem A	3	Act 4 Cpot A	3																							0
-Act 4 Super Bx	19	29	-6	512	654	972	1024	0	Act 4 Uitem B	3	Act 4 Cpot B	3																							0
-Act 4 Super Cx	19	32	-6	512	654	972	1024	0	Act 4 Uitem B	3	Act 4 Cpot B	3																							0
-Act 5 Super Ax	19	34	-6	512	654	972	1024	0	Act 5 Uitem A	3	Act 5 Cpot A	3																							0
-Act 5 Super Bx	19	36	-6	512	654	972	1024	0	Act 5 Uitem B	3	Act 5 Cpot B	3																							0
-Act 5 Super Cx	19	38	-6	512	654	972	1024	0	Act 5 Uitem C	3	Act 5 Cpot C	3																							0
-Act 1 (N) Super Ax	19	40	-6	512	654	972	1024	0	Act 1 (N) Uitem A	3	Act 1 (N) Cpot A	3																							0
-Act 1 (N) Super Bx	19	41	-6	512	654	972	1024	0	Act 1 (N) Uitem B	3	Act 1 (N) Cpot B	3																							0
-Act 1 (N) Super Cx	19	42	-6	512	654	972	1024	0	Act 1 (N) Uitem C	3	Act 1 (N) Cpot C	3																							0
-Act 2 (N) Super Ax	19	44	-6	512	654	972	1024	0	Act 2 (N) Uitem A	3	Act 2 (N) Cpot A	3																							0
-Act 2 (N) Super Bx	19	45	-6	512	654	972	1024	0	Act 2 (N) Uitem B	3	Act 2 (N) Cpot B	3																							0
-Act 2 (N) Super Cx	19	46	-6	512	654	972	1024	0	Act 2 (N) Uitem C	3	Act 2 (N) Cpot C	3																							0
-Act 3 (N) Super Ax	19	48	-6	512	654	972	1024	0	Act 3 (N) Uitem A	3	Act 3 (N) Cpot A	3																							0
-Act 3 (N) Super Bx	19	50	-6	512	654	972	1024	0	Act 3 (N) Uitem B	3	Act 3 (N) Cpot B	3																							0
-Act 3 (N) Super Cx	19	51	-6	512	654	972	1024	0	Act 3 (N) Uitem C	3	Act 3 (N) Cpot C	3																							0
-Act 4 (N) Super Ax	19	54	-6	512	654	972	1024	0	Act 4 (N) Uitem A	3	Act 4 (N) Cpot A	3																							0
-Act 4 (N) Super Bx	19	57	-6	512	654	972	1024	0	Act 4 (N) Uitem B	3	Act 4 (N) Cpot B	3																							0
-Act 4 (N) Super Cx	19	60	-6	512	654	972	1024	0	Act 4 (N) Uitem B	3	Act 4 (N) Cpot B	3																							0
-Act 5 (N) Super Ax	19	62	-6	512	654	972	1024	0	Act 5 (N) Uitem A	3	Act 5 (N) Cpot A	3																							0
-Act 5 (N) Super Bx	19	63	-6	512	654	972	1024	0	Act 5 (N) Uitem B	3	Act 5 (N) Cpot B	3																							0
-Act 5 (N) Super Cx	19	66	-6	512	654	972	1024	0	Act 5 (N) Uitem C	3	Act 5 (N) Cpot C	3																							0
-Act 1 (H) Super Ax	19	67	-6	512	654	972	1024	0	Act 1 (H) Uitem A	3	Act 1 (H) Cpot A	3																							0
-Act 1 (H) Super Bx	19	67	-6	512	654	972	1024	0	Act 1 (H) Uitem B	3	Act 1 (H) Cpot B	3																							0
-Act 1 (H) Super Cx	19	68	-6	512	654	972	1024	0	Act 1 (H) Uitem C	3	Act 1 (H) Cpot C	3																							0
-Act 2 (H) Super Ax	19	68	-6	512	654	972	1024	0	Act 2 (H) Uitem A	3	Act 2 (H) Cpot A	3																							0
-Act 2 (H) Super Bx	19	69	-6	512	654	972	1024	0	Act 2 (H) Uitem B	3	Act 2 (H) Cpot B	3																							0
-Act 2 (H) Super Cx	19	72	-6	512	654	972	1024	0	Act 2 (H) Uitem C	3	Act 2 (H) Cpot C	3																							0
-Act 3 (H) Super Ax	19	73	-6	512	654	972	1024	0	Act 3 (H) Uitem A	3	Act 3 (H) Cpot A	3																							0
-Act 3 (H) Super Bx	19	75	-6	512	654	972	1024	0	Act 3 (H) Uitem B	3	Act 3 (H) Cpot B	3																							0
-Act 3 (H) Super Cx	19	78	-6	512	654	972	1024	0	Act 3 (H) Uitem C	3	Act 3 (H) Cpot C	3																							0
-Act 4 (H) Super Ax	19	81	-6	512	654	972	1024	0	Act 4 (H) Uitem A	3	Act 4 (H) Cpot A	3																							0
-Act 4 (H) Super Bx	19	84	-6	512	654	972	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Cpot B	3																							0
-Act 4 (H) Super Cx	19	87	-6	512	654	972	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Cpot B	3																							0
-Act 5 (H) Super Ax	19	90	-6	512	654	972	1024	0	Act 5 (H) Uitem A	3	Act 5 (H) Cpot A	3																							0
-Act 5 (H) Super Bx	19	93	-6	512	654	972	1024	0	Act 5 (H) Uitem B	3	Act 5 (H) Cpot B	3																							0
-Act 5 (H) Super Cx	19	96	-6	512	654	972	1024	0	Act 5 (H) Uitem C	3	Act 5 (H) Cpot C	3																							0
-Cow King			-6	850	983	983	1024	0	Act 1 Uitem C	3	Act 1 Melee B	3																							0
-Cow King Desecrated A	33	31	-6	850	983	983	1024	0	Act 4 Uitem B	3	Act 4 Melee B	3																							0
-Cow King Desecrated B	33	40	-6	850	983	983	1024	0	Act 1 (N) Uitem A	3	Act 1 (N) Melee A	3																							0
-Cow King Desecrated C	33	48	-6	850	983	983	1024	0	Act 3 (N) Uitem A	3	Act 3 (N) Melee A	3																							0
-Cow King (N)			-6	850	983	983	1024	0	Act 1 (H) Uitem C	3	Act 1 (N) Melee B	3																							0
-Cow King (N) Desecrated A	33	67	-6	850	983	983	1024	0	Act 1 (H) Uitem C	3	Act 1 (H) Melee B	3																							0
-Cow King (N) Desecrated C	33	73	-6	850	983	983	1024	0	Act 3 (H) Uitem C	3	Act 3 (H) Melee B	3																							0
-Cow King (H)			-6	850	983	983	1024	0	Act 1 (H) Uitem C	3	Act 1 (H) Melee B	3																							0
-Cow King Item (H) Desecrated A			-6	850	983	983	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Melee B	3																							0
-Cow King Item (H) Desecrated B			-6	850	983	983	1024	0	Act 5 (H) Uitem A	3	Act 5 (H) Melee A	3																							0
-Cow King Item (H) Desecrated C			-6	850	983	983	1024	0	Act 5 (H) Uitem B	3	Act 5 (H) Melee B	3																							0
-Cow King Item (H) Desecrated D			-6	850	983	983	1024	0	Act 5 (H) Uitem C	3	Act 5 (H) Melee C	3																							0
+Act 1 Super A	18	0	-6	1000	1000	972	1024	0	Act 1 Uitem A	3	Act 1 Cpot A	3																							0
+Act 1 Super B	18	5	-6	1000	1000	972	1024	0	Act 1 Uitem B	3	Act 1 Cpot B	3																							0
+Act 1 Super C	18	9	-6	1000	1000	972	1024	0	Act 1 Uitem C	3	Act 1 Cpot C	3																							0
+Act 2 Super A	18	12	-6	1000	1000	972	1024	0	Act 2 Uitem A	3	Act 2 Cpot A	3																							0
+Act 2 Super B	18	15	-6	1000	1000	972	1024	0	Act 2 Uitem B	3	Act 2 Cpot B	3																							0
+Act 2 Super C	18	18	-6	1000	1000	972	1024	0	Act 2 Uitem C	3	Act 2 Cpot C	3																							0
+Act 3 Super A	18	20	-6	1000	1000	972	1024	0	Act 3 Uitem A	3	Act 3 Cpot A	3																							0
+Act 3 Super B	18	22	-6	1000	1000	972	1024	0	Act 3 Uitem B	3	Act 3 Cpot B	3																							0
+Act 3 Super C	18	24	-6	1000	1000	972	1024	0	Act 3 Uitem C	3	Act 3 Cpot C	3																							0
+Act 4 Super A	18	26	-6	1000	1000	972	1024	0	Act 4 Uitem A	3	Act 4 Cpot A	3																							0
+Act 4 Super B	18	29	-6	1000	1000	972	1024	0	Act 4 Uitem B	3	Act 4 Cpot B	3																							0
+Act 4 Super C	18	32	-6	1000	1000	972	1024	0	Act 4 Uitem B	3	Act 4 Cpot B	3																							0
+Act 5 Super A	18	34	-6	1000	1000	972	1024	0	Act 5 Uitem A	3	Act 5 Cpot A	3																							0
+Act 5 Super B	18	36	-6	1000	1000	972	1024	0	Act 5 Uitem B	3	Act 5 Cpot B	3																							0
+Act 5 Super C	18	38	-6	1000	1000	972	1024	0	Act 5 Uitem C	3	Act 5 Cpot C	3																							0
+Act 1 (N) Super A	18	40	-6	1000	1000	972	1024	0	Act 1 (N) Uitem A	3	Act 1 (N) Cpot A	3																							0
+Act 1 (N) Super B	18	41	-6	1000	1000	972	1024	0	Act 1 (N) Uitem B	3	Act 1 (N) Cpot B	3																							0
+Act 1 (N) Super C	18	42	-6	1000	1000	972	1024	0	Act 1 (N) Uitem C	3	Act 1 (N) Cpot C	3																							0
+Act 2 (N) Super A	18	44	-6	1000	1000	972	1024	0	Act 2 (N) Uitem A	3	Act 2 (N) Cpot A	3																							0
+Act 2 (N) Super B	18	45	-6	1000	1000	972	1024	0	Act 2 (N) Uitem B	3	Act 2 (N) Cpot B	3																							0
+Act 2 (N) Super C	18	46	-6	1000	1000	972	1024	0	Act 2 (N) Uitem C	3	Act 2 (N) Cpot C	3																							0
+Act 3 (N) Super A	18	48	-6	1000	1000	972	1024	0	Act 3 (N) Uitem A	3	Act 3 (N) Cpot A	3																							0
+Act 3 (N) Super B	18	50	-6	1000	1000	972	1024	0	Act 3 (N) Uitem B	3	Act 3 (N) Cpot B	3																							0
+Act 3 (N) Super C	18	51	-6	1000	1000	972	1024	0	Act 3 (N) Uitem C	3	Act 3 (N) Cpot C	3																							0
+Act 4 (N) Super A	18	54	-6	1000	1000	972	1024	0	Act 4 (N) Uitem A	3	Act 4 (N) Cpot A	3																							0
+Act 4 (N) Super B	18	57	-6	1000	1000	972	1024	0	Act 4 (N) Uitem B	3	Act 4 (N) Cpot B	3																							0
+Act 4 (N) Super C	18	60	-6	1000	1000	972	1024	0	Act 4 (N) Uitem B	3	Act 4 (N) Cpot B	3																							0
+Act 5 (N) Super A	18	62	-6	1000	1000	972	1024	0	Act 5 (N) Uitem A	3	Act 5 (N) Cpot A	3																							0
+Act 5 (N) Super B	18	63	-6	1000	1000	972	1024	0	Act 5 (N) Uitem B	3	Act 5 (N) Cpot B	3																							0
+Act 5 (N) Super C	18	66	-6	1000	1000	972	1024	0	Act 5 (N) Uitem C	3	Act 5 (N) Cpot C	3																							0
+Act 1 (H) Super A	18	67	-6	1000	1000	972	1024	0	Act 1 (H) Uitem A	3	Act 1 (H) Cpot A	3																							0
+Act 1 (H) Super B	18	67	-6	1000	1000	972	1024	0	Act 1 (H) Uitem B	3	Act 1 (H) Cpot B	3																							0
+Act 1 (H) Super C	18	68	-6	1000	1000	972	1024	0	Act 1 (H) Uitem C	3	Act 1 (H) Cpot C	3																							0
+Act 2 (H) Super A	18	68	-6	1000	1000	972	1024	0	Act 2 (H) Uitem A	3	Act 2 (H) Cpot A	3																							0
+Act 2 (H) Super B	18	69	-6	1000	1000	972	1024	0	Act 2 (H) Uitem B	3	Act 2 (H) Cpot B	3																							0
+Act 2 (H) Super C	18	72	-6	1000	1000	972	1024	0	Act 2 (H) Uitem C	3	Act 2 (H) Cpot C	3																							0
+Act 3 (H) Super A	18	73	-6	1000	1000	972	1024	0	Act 3 (H) Uitem A	3	Act 3 (H) Cpot A	3																							0
+Act 3 (H) Super B	18	75	-6	1000	1000	972	1024	0	Act 3 (H) Uitem B	3	Act 3 (H) Cpot B	3																							0
+Act 3 (H) Super C	18	78	-6	1000	1000	972	1024	0	Act 3 (H) Uitem C	3	Act 3 (H) Cpot C	3																							0
+Act 4 (H) Super A	18	81	-6	1000	1000	972	1024	0	Act 4 (H) Uitem A	3	Act 4 (H) Cpot A	3																							0
+Act 4 (H) Super B	18	84	-6	1000	1000	972	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Cpot B	3																							0
+Act 4 (H) Super C	18	87	-6	1000	1000	972	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Cpot B	3																							0
+Act 5 (H) Super A	18	90	-6	1000	1000	972	1024	0	Act 5 (H) Uitem A	3	Act 5 (H) Cpot A	3																							0
+Act 5 (H) Super B	18	93	-6	1000	1000	972	1024	0	Act 5 (H) Uitem B	3	Act 5 (H) Cpot B	3																							0
+Act 5 (H) Super C	18	96	-6	1000	1000	972	1024	0	Act 5 (H) Uitem C	3	Act 5 (H) Cpot C	3																							0
+Act 1 Super Ax	19	0	-6	1000	1000	972	1024	0	Act 1 Uitem A	3	Act 1 Cpot A	3																							0
+Act 1 Super Bx	19	5	-6	1000	1000	972	1024	0	Act 1 Uitem B	3	Act 1 Cpot B	3																							0
+Act 1 Super Cx	19	9	-6	1000	1000	972	1024	0	Act 1 Uitem C	3	Act 1 Cpot C	3																							0
+Act 2 Super Ax	19	12	-6	1000	1000	972	1024	0	Act 2 Uitem A	3	Act 2 Cpot A	3																							0
+Act 2 Super Bx	19	15	-6	1000	1000	972	1024	0	Act 2 Uitem B	3	Act 2 Cpot B	3																							0
+Act 2 Super Cx	19	18	-6	1000	1000	972	1024	0	Act 2 Uitem C	3	Act 2 Cpot C	3																							0
+Act 3 Super Ax	19	20	-6	1000	1000	972	1024	0	Act 3 Uitem A	3	Act 3 Cpot A	3																							0
+Act 3 Super Bx	19	22	-6	1000	1000	972	1024	0	Act 3 Uitem B	3	Act 3 Cpot B	3																							0
+Act 3 Super Cx	19	24	-6	1000	1000	972	1024	0	Act 3 Uitem C	3	Act 3 Cpot C	3																							0
+Act 4 Super Ax	19	26	-6	1000	1000	972	1024	0	Act 4 Uitem A	3	Act 4 Cpot A	3																							0
+Act 4 Super Bx	19	29	-6	1000	1000	972	1024	0	Act 4 Uitem B	3	Act 4 Cpot B	3																							0
+Act 4 Super Cx	19	32	-6	1000	1000	972	1024	0	Act 4 Uitem B	3	Act 4 Cpot B	3																							0
+Act 5 Super Ax	19	34	-6	1000	1000	972	1024	0	Act 5 Uitem A	3	Act 5 Cpot A	3																							0
+Act 5 Super Bx	19	36	-6	1000	1000	972	1024	0	Act 5 Uitem B	3	Act 5 Cpot B	3																							0
+Act 5 Super Cx	19	38	-6	1000	1000	972	1024	0	Act 5 Uitem C	3	Act 5 Cpot C	3																							0
+Act 1 (N) Super Ax	19	40	-6	1000	1000	972	1024	0	Act 1 (N) Uitem A	3	Act 1 (N) Cpot A	3																							0
+Act 1 (N) Super Bx	19	41	-6	1000	1000	972	1024	0	Act 1 (N) Uitem B	3	Act 1 (N) Cpot B	3																							0
+Act 1 (N) Super Cx	19	42	-6	1000	1000	972	1024	0	Act 1 (N) Uitem C	3	Act 1 (N) Cpot C	3																							0
+Act 2 (N) Super Ax	19	44	-6	1000	1000	972	1024	0	Act 2 (N) Uitem A	3	Act 2 (N) Cpot A	3																							0
+Act 2 (N) Super Bx	19	45	-6	1000	1000	972	1024	0	Act 2 (N) Uitem B	3	Act 2 (N) Cpot B	3																							0
+Act 2 (N) Super Cx	19	46	-6	1000	1000	972	1024	0	Act 2 (N) Uitem C	3	Act 2 (N) Cpot C	3																							0
+Act 3 (N) Super Ax	19	48	-6	1000	1000	972	1024	0	Act 3 (N) Uitem A	3	Act 3 (N) Cpot A	3																							0
+Act 3 (N) Super Bx	19	50	-6	1000	1000	972	1024	0	Act 3 (N) Uitem B	3	Act 3 (N) Cpot B	3																							0
+Act 3 (N) Super Cx	19	51	-6	1000	1000	972	1024	0	Act 3 (N) Uitem C	3	Act 3 (N) Cpot C	3																							0
+Act 4 (N) Super Ax	19	54	-6	1000	1000	972	1024	0	Act 4 (N) Uitem A	3	Act 4 (N) Cpot A	3																							0
+Act 4 (N) Super Bx	19	57	-6	1000	1000	972	1024	0	Act 4 (N) Uitem B	3	Act 4 (N) Cpot B	3																							0
+Act 4 (N) Super Cx	19	60	-6	1000	1000	972	1024	0	Act 4 (N) Uitem B	3	Act 4 (N) Cpot B	3																							0
+Act 5 (N) Super Ax	19	62	-6	1000	1000	972	1024	0	Act 5 (N) Uitem A	3	Act 5 (N) Cpot A	3																							0
+Act 5 (N) Super Bx	19	63	-6	1000	1000	972	1024	0	Act 5 (N) Uitem B	3	Act 5 (N) Cpot B	3																							0
+Act 5 (N) Super Cx	19	66	-6	1000	1000	972	1024	0	Act 5 (N) Uitem C	3	Act 5 (N) Cpot C	3																							0
+Act 1 (H) Super Ax	19	67	-6	1000	1000	972	1024	0	Act 1 (H) Uitem A	3	Act 1 (H) Cpot A	3																							0
+Act 1 (H) Super Bx	19	67	-6	1000	1000	972	1024	0	Act 1 (H) Uitem B	3	Act 1 (H) Cpot B	3																							0
+Act 1 (H) Super Cx	19	68	-6	1000	1000	972	1024	0	Act 1 (H) Uitem C	3	Act 1 (H) Cpot C	3																							0
+Act 2 (H) Super Ax	19	68	-6	1000	1000	972	1024	0	Act 2 (H) Uitem A	3	Act 2 (H) Cpot A	3																							0
+Act 2 (H) Super Bx	19	69	-6	1000	1000	972	1024	0	Act 2 (H) Uitem B	3	Act 2 (H) Cpot B	3																							0
+Act 2 (H) Super Cx	19	72	-6	1000	1000	972	1024	0	Act 2 (H) Uitem C	3	Act 2 (H) Cpot C	3																							0
+Act 3 (H) Super Ax	19	73	-6	1000	1000	972	1024	0	Act 3 (H) Uitem A	3	Act 3 (H) Cpot A	3																							0
+Act 3 (H) Super Bx	19	75	-6	1000	1000	972	1024	0	Act 3 (H) Uitem B	3	Act 3 (H) Cpot B	3																							0
+Act 3 (H) Super Cx	19	78	-6	1000	1000	972	1024	0	Act 3 (H) Uitem C	3	Act 3 (H) Cpot C	3																							0
+Act 4 (H) Super Ax	19	81	-6	1000	1000	972	1024	0	Act 4 (H) Uitem A	3	Act 4 (H) Cpot A	3																							0
+Act 4 (H) Super Bx	19	84	-6	1000	1000	972	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Cpot B	3																							0
+Act 4 (H) Super Cx	19	87	-6	1000	1000	972	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Cpot B	3																							0
+Act 5 (H) Super Ax	19	90	-6	1000	1000	972	1024	0	Act 5 (H) Uitem A	3	Act 5 (H) Cpot A	3																							0
+Act 5 (H) Super Bx	19	93	-6	1000	1000	972	1024	0	Act 5 (H) Uitem B	3	Act 5 (H) Cpot B	3																							0
+Act 5 (H) Super Cx	19	96	-6	1000	1000	972	1024	0	Act 5 (H) Uitem C	3	Act 5 (H) Cpot C	3																							0
+Cow King			-6	1000	1000	983	1024	0	Act 1 Uitem C	3	Act 1 Melee B	3																							0
+Cow King Desecrated A	33	31	-6	950	983	983	1024	0	Act 4 Uitem B	3	Act 4 Melee B	3																							0
+Cow King Desecrated B	33	40	-6	950	983	983	1024	0	Act 1 (N) Uitem A	3	Act 1 (N) Melee A	3																							0
+Cow King Desecrated C	33	48	-6	950	983	983	1024	0	Act 3 (N) Uitem A	3	Act 3 (N) Melee A	3																							0
+Cow King (N)			-6	950	983	983	1024	0	Act 1 (H) Uitem C	3	Act 1 (N) Melee B	3																							0
+Cow King (N) Desecrated A	33	67	-6	950	983	983	1024	0	Act 1 (H) Uitem C	3	Act 1 (H) Melee B	3																							0
+Cow King (N) Desecrated C	33	73	-6	950	983	983	1024	0	Act 3 (H) Uitem C	3	Act 3 (H) Melee B	3																							0
+Cow King (H)			-6	950	983	983	1024	0	Act 1 (H) Uitem C	3	Act 1 (H) Melee B	3																							0
+Cow King Item (H) Desecrated A			-6	950	983	983	1024	0	Act 4 (H) Uitem B	3	Act 4 (H) Melee B	3																							0
+Cow King Item (H) Desecrated B			-6	950	983	983	1024	0	Act 5 (H) Uitem A	3	Act 5 (H) Melee A	3																							0
+Cow King Item (H) Desecrated C			-6	950	983	983	1024	0	Act 5 (H) Uitem B	3	Act 5 (H) Melee B	3																							0
+Cow King Item (H) Desecrated D			-6	950	983	983	1024	0	Act 5 (H) Uitem C	3	Act 5 (H) Melee C	3																							0
 Cow King (H) Desecrated A	33	86	-6					0	Sunder Charms	3	Cow King Item (H) Desecrated A	3																							0
 Cow King (H) Desecrated B	33	90	-6					0	Sunder Charms	3	Cow King Item (H) Desecrated B	3																							0
 Cow King (H) Desecrated C	33	93	-6					0	Sunder Charms	3	Cow King Item (H) Desecrated C	3																							0
