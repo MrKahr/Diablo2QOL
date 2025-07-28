@@ -8,7 +8,7 @@ Ensure that your game launches with the options "-mod modname -txt". This will e
 ## Mod features 
 - Levels are gained linearly (1000xp * level + exp for previous level)
 - Akara now sells rune at the default rune at values specified by the diablo 2 resurrected developers
-- Act bosses and superuniques always drop at least one unique and one set item 
+- Act bosses and superuniques have increased drop rates
 - All sets and uniques have the same rareity within their class (e.g. Tyriel's Might is not rarer than any other elite armor)
 
 ## For other modders 
